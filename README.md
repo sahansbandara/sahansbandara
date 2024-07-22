@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahansbandara" alt="sahansbandara" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python, Java, JavaScript, C++**
 
 - 📫 How to reach me **Sahansbandara.mail@gmail.com**
 
-- ⚡ Fun fact **I Think I Am an Idiot 🤪**
+- ⚡ Fun fact **Passionate about technology and software development. I have experience with several programming languages and love contributing to open-source projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
