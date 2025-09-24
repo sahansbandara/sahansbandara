@@ -34,9 +34,6 @@
   <a href="https://instagram.com/imsahans" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCOv0LDi801N_ZFOytX0ak2w" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" height="50"/>
-  </a>
   <a href="mailto:Sahansbandara.mail@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
@@ -59,9 +56,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahansbandara&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sahansbandara&theme=tokyonight&hide_border=true" height="200" />
-</p>
-
----
