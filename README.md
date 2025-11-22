@@ -67,9 +67,9 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=algolia&no-frame=true&no-bg=true&margin-w=20&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=radical&no-frame=true&no-bg=false&margin-w=15" />
 </p>
 
 ---
