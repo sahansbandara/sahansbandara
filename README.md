@@ -1,5 +1,8 @@
-<!-- 🌊 HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Freelancer%20|%20Crypto%20%26%20Forex%20Trader&descSize=27&descAlignY=85&section=header" />
+<!-- 🌊 HEADER (FIXED + STABLE) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=180&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=45&fontColor=61DAFB&animation=twinkling&fontAlignY=40&desc=Software%20Engineering%20Student%20@%20SLIIT%20|%20Freelancer%20|%20Crypto%20%26%20Forex%20Trader&descSize=20&descAlignY=70" />
+</p>
+
 
 I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
 AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
