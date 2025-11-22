@@ -45,11 +45,15 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 📊 GitHub Statistics 
+## 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=E0E0E0&bg_color=000000&border_color=7F00FF" height="170em"/>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=sahansbandara&theme=tokyonight&hide_border=false&background=000000&currStreakLabel=00FFFF&ring=FF00FF&fire=00FFFF&sideLabels=00FFFF" height="170em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=E0E0E0&bg_color=000000&border_color=7F00FF" height="170em"/>
+
+  <img src="https://streak-stats.demolab.com?user=sahansbandara&theme=tokyonight&hide_border=false&background=000000&currStreakLabel=00FFFF&ring=FF00FF&fire=00FFFF&sideLabels=00FFFF" height="170em"/>
+
+</div>
 
 ---
 
