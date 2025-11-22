@@ -8,14 +8,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-<div align="center">
-    <picture>
-        <img align="center" src="https://user-images.githubusercontent.com/67017303/209289640-cde876f9-7b57-4184-b377-72928a8319ae.gif" width="500">
-    </picture>
-</div>
-
----
-
 ## 🔌 Connect With Me (Cyberpunk Style)
 <p align="center">
   <a href="mailto:Sahansbandara.mail@gmail.com">
@@ -54,7 +46,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ---
 
 ## 📊 GitHub Statistics (Neon Aura)
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=E0E0E0&bg_color=000000&border_color=7F00FF" height="170em"/>
 
@@ -63,14 +54,14 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ---
 
 ## 🧩 Most Used Languages (Neon Cyber Theme)
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&title_color=00FFFF&text_color=E0E0E0&bg_color=000000&border_color=FF00FF&hide_border=false" height="170em"/>
 
 ---
 
 ## 🏆 GitHub Trophies (Cyberpunk Neon)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=20" />
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
