@@ -21,13 +21,13 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <a href="mailto:Sahansbandara.mail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
-  <a href="https://linkedin.com/in/sahan-sandaruwan">
+  <a href="https://www.linkedin.com/in/imsahans">
     <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
   </a>
   <a href="https://instagram.com/imsahans">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://t.me/Sahan">
+  <a href="https://t.me/ImSahans">
     <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
   </a>
 </p>
