@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=50&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Freelancer%20|%20Crypto%20Trader&descSize=27&descAlignY=85&section=header" />
+<!-- 🌌 CYBERPUNK HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=150&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=50&fontColor=00FFFF&fontAlignY=45&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Freelancer%20|%20Crypto%20Trader&descSize=25&descAlignY=85" />
 
 I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
 AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
@@ -15,70 +16,63 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 📬 Connect With Me
+## 🔌 Connect With Me (Cyberpunk Style)
 <p align="center">
   <a href="mailto:Sahansbandara.mail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/GMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00FFFF" />
   </a>
   <a href="https://www.linkedin.com/in/imsahans">
-    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/LINKEDIN-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=00FFFF" />
   </a>
   <a href="https://instagram.com/imsahans">
-    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-1a1a1a?style=for-the-badge&logo=instagram&logoColor=FF00FF" />
   </a>
   <a href="https://t.me/ImSahans">
-    <img src="https://img.shields.io/badge/Telegram-091519?style=for-the-badge&logo=telegram&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TELEGRAM-1a1a1a?style=for-the-badge&logo=telegram&logoColor=00FFFF" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=3a8296&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/sahansbandara?label=GitHub%20Followers&color=3a8296&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=00FFFF&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=FF00FF&style=flat" />
 </p>
 
 ---
 
-## 🧠 Skills  
+## 🧠 Skills (Neon Icons)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=dark" />
 </p>
 
 ---
 
-## ⚙️ Tools  
+## ⚙️ Tools (Cyberpunk Tools)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=light" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics (Neon Aura)
 <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=radical&title_color=61DAFB&icon_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=E0E0E0&bg_color=000000&border_color=7F00FF" height="170em"/>
 
-<img src="https://streak-stats.demolab.com?user=sahansbandara&theme=radical&hide_border=false&background=0,000000,091519&currStreakLabel=61DAFB&ring=3a8296&fire=61DAFB&sideLabels=61DAFB" height="170em"/>
-
----
-
-## 🧩 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=radical&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false&custom_title=Most%20Used%20Languages" height="170em"/>
+<img src="https://streak-stats.demolab.com?user=sahansbandara&theme=tokyonight&hide_border=false&background=000000&currStreakLabel=00FFFF&ring=FF00FF&fire=00FFFF&sideLabels=00FFFF" height="170em"/>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 Most Used Languages (Neon Cyber Theme)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&title_color=00FFFF&text_color=E0E0E0&bg_color=000000&border_color=FF00FF&hide_border=false" height="170em"/>
+
+---
+
+## 🏆 GitHub Trophies (Cyberpunk Neon)
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
-
-
----
-
-## ✍️ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:3a8296,100:000000&border_color=61DAFB&text_color=61DAFB" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=20" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20for%20Visiting%20👋🏻&fontSize=25&fontColor=61DAFB&animation=twinkling" />
+<!-- 🌌 CYBERPUNK FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:7F00FF&height=100&section=footer&text=Thanks%20for%20Visiting%20✨&fontSize=25&fontColor=E0E0E0&animation=twinkling" />
