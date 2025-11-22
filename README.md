@@ -65,9 +65,11 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Most Used Languages 
+## Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&title_color=00FFFF&text_color=E0E0E0&bg_color=000000&border_color=FF00FF&hide_border=false" height="170em"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&title_color=00FFFF&text_color=E0E0E0&bg_color=000000&border_color=FF00FF&hide_border=false" height="170em"/>
+</div>
 
 ---
 
