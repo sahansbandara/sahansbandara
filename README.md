@@ -8,7 +8,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🔌 Connect With Me (Cyberpunk Style)
+## 🔌 Connect With Me 
 <p align="center">
   <a href="mailto:Sahansbandara.mail@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00FFFF" />
@@ -31,21 +31,21 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🧠 Skills (Neon Icons)
+## 🧠 Skills 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=dark" />
 </p>
 
 ---
 
-## ⚙️ Tools (Cyberpunk Tools)
+## ⚙️ Tools 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics (Neon Aura)
+## 📊 GitHub Statistics 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&theme=tokyonight&title_color=00FFFF&icon_color=FF00FF&text_color=E0E0E0&bg_color=000000&border_color=7F00FF" height="170em"/>
 
@@ -53,15 +53,17 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🧩 Most Used Languages (Neon Cyber Theme)
+## 🧩 Most Used Languages 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&title_color=00FFFF&text_color=E0E0E0&bg_color=000000&border_color=FF00FF&hide_border=false" height="170em"/>
 
 ---
 
-## 🏆 GitHub Trophies (Cyberpunk Neon)
+## 🏆 GitHub Trophies 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
