@@ -34,12 +34,8 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## GitHub Trophies 
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sahansbandara?label=Total%20Stars&logo=github&color=FF00FF&labelColor=000000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&logo=github&color=00FFFF&labelColor=000000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/repos/sahansbandara?label=Public%20Repos&logo=github&color=7F00FF&labelColor=000000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/commit-activity/y/sahansbandara?label=Yearly%20Commits&logo=git&color=00FF88&labelColor=000000&style=for-the-badge" />
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
 </p>
-
 
 ---
 
