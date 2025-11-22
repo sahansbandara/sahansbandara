@@ -68,12 +68,13 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ---
 
 ## 🏆 GitHub Trophies (Cyberpunk Neon)
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=20&margin-h=20&row=1&column=7"
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=20"
     width="100%"
   />
-</p>
+</div>
 
 ---
 
