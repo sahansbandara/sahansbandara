@@ -8,7 +8,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🔌 Connect With Me 
+## Connect With Me 
 <p align="center">
   <a href="mailto:Sahansbandara.mail@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-1a1a1a?style=for-the-badge&logo=gmail&logoColor=00FFFF" />
@@ -31,21 +31,29 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🧠 Skills 
+## GitHub Trophies 
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## Skills 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=dark" />
 </p>
 
 ---
 
-## ⚙️ Tools 
+## Tools 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -57,17 +65,9 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🧩 Most Used Languages 
+## Most Used Languages 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&title_color=00FFFF&text_color=E0E0E0&bg_color=000000&border_color=FF00FF&hide_border=false" height="170em"/>
-
----
-
-## 🏆 GitHub Trophies 
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=matrix&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-</p>
 
 ---
 
