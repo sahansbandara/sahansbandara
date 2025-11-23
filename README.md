@@ -1,5 +1,5 @@
 <!-- 🌌 CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=150&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=50&fontColor=00FFFF&fontAlignY=45&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Freelancer%20|%20Crypto%20Trader&descSize=25&descAlignY=85" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00FFFF&height=150&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=50&fontColor=00FFFF&fontAlignY=45&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Freelancer%20|%20Telegram%20Channel%20Seller&descSize=25&descAlignY=85" />
 
 I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
 AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
