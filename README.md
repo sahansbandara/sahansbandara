@@ -25,7 +25,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=00FFFF&label=Profile%20Views" />
+  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=FF00FF&label=Profile%20Views" />
   <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=FF00FF&style=flat" />
 </p>
 
