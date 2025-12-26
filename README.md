@@ -43,7 +43,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
@@ -74,7 +74,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 <p align="center">
   <a href="https://github.com/sahansbandara">
-    <img src="https://streak-stats.demolab.com?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="170em"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="170em"/>
   </a>
 </p>
 
