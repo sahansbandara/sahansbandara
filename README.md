@@ -43,7 +43,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sahansbandara&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 </p>
 
 ---
@@ -66,17 +66,26 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ## GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" height="170em"/>
-  <img src="https://streak-stats.demolab.com?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="170em"/>
-</div>
+<p align="center">
+  <a href="https://github.com/sahansbandara">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" height="170em"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sahansbandara">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="170em"/>
+  </a>
+</p>
 
 ---
 
 ## Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="170em"/>
+  <a href="https://github.com/sahansbandara">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="170em"/>
+  </a>
 </p>
 
 ---
