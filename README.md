@@ -66,14 +66,18 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ## GitHub Statistics
 
-<p align="center">
-  <a href="https://github.com/sahansbandara">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" height="170em"/>
-  </a>
-  <a href="https://github.com/sahansbandara">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="170em"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" height="180em"/>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="180em"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
