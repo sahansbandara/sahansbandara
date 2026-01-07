@@ -73,7 +73,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Languages & Stats
+## Tech Stack
 
 <div align="center">
   <table>
@@ -84,7 +84,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
         </a>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahansbandara&theme=tokyonight" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahansbandara&theme=github_dark" />
       </td>
     </tr>
   </table>
@@ -98,7 +98,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=github_dark&utcOffset=5.5" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=radical&utcOffset=5.5" />
       </td>
       <td>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" height="180em"/>
@@ -109,7 +109,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🐍 My Contributions 🐍
+## My Contributions
 
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg"/>
