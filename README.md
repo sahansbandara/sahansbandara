@@ -50,10 +50,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ## Profile Summary
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahansbandara&theme=tokyonight" />
-</p>
-
 <div align="center">
   <table>
     <tr>
@@ -107,12 +103,16 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Most Used Languages
+## Languages & Activity
 
 <p align="center">
   <a href="https://github.com/sahansbandara">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="180em"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=1a1b27&color=a9b1d6&line=bb9af7&point=7dcfff&area=true&area_color=bb9af7&hide_border=true" />
 </p>
 
 ---
