@@ -32,40 +32,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## 🐍 My Contributions 🐍
-
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## Profile Summary
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=donut&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="200em"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=donut-vertical&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="200em"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=tokyonight&utcOffset=5.5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahansbandara&theme=tokyonight" />
 </p>
 
 ---
@@ -103,7 +73,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Most Used Languages
+## Languages & Stats
 
 <div align="center">
   <table>
@@ -114,11 +84,15 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
         </a>
       </td>
       <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" height="180em"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahansbandara&theme=tokyonight" />
       </td>
     </tr>
   </table>
 </div>
+
+---
+
+## Activity & Contributions
 
 <div align="center">
   <table>
@@ -127,13 +101,19 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=tokyonight&utcOffset=5.5" />
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahansbandara&theme=tokyonight" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" height="180em"/>
       </td>
     </tr>
   </table>
 </div>
 
 ---
+
+## 🐍 My Contributions 🐍
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg"/>
+</p>
 
 <!-- 🌌 CYBERPUNK FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=100&section=footer&text=Thanks%20for%20Visiting%20✨&fontSize=25&fontColor=E0E7FF&animation=twinkling" />
