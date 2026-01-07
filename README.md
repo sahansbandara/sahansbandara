@@ -84,7 +84,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
         </a>
       </td>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahansbandara&theme=2077" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=donut&langs_count=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="180em"/>
       </td>
     </tr>
   </table>
@@ -98,7 +98,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=2077&utcOffset=5.5" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" height="180em"/>
       </td>
       <td>
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" height="180em"/>
