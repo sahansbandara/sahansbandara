@@ -32,30 +32,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=dark" />
-</p>
-
----
-
-## Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
-</p>
-
----
-
 ## GitHub Statistics
 
 <div align="center">
@@ -92,11 +68,36 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=dark" />
+</p>
+
+---
+
+## Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
+</p>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
 ## My Contributions
 
 <p align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 <!-- 🌌 CYBERPUNK FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=100&section=footer&text=Thanks%20for%20Visiting%20✨&fontSize=25&fontColor=E0E7FF&animation=twinkling" />
