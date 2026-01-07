@@ -48,6 +48,24 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
+## Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahansbandara&theme=2077" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sahansbandara&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sahansbandara&theme=2077" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahansbandara&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=2077&utcOffset=5.5" />
+</p>
+
+---
+
 ## Skills
 
 <p align="center">
