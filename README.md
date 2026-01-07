@@ -103,17 +103,35 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Languages & Activity
+## Most Used Languages
 
-<p align="center">
-  <a href="https://github.com/sahansbandara">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="180em"/>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/sahansbandara">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="180em"/>
+        </a>
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" height="180em"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=1a1b27&color=a9b1d6&line=bb9af7&point=7dcfff&area=true&area_color=bb9af7&hide_border=true" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sahansbandara&theme=tokyonight&utcOffset=5.5" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sahansbandara&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
