@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="300" viewBox="0 0 1180 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sahan Sandaruwan</title>
+  <desc id="desc">Software Engineering, AI, and Automation</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07101f"/>
+      <stop offset=".52" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#120b25"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset=".5" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#a855f7"/>
+    </linearGradient>
+    <radialGradient id="cyan-glow">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity=".24"/>
+      <stop offset="1" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="violet-glow">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".055"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1180" height="300" rx="18" fill="url(#background)"/>
+  <rect width="1180" height="300" rx="18" fill="url(#grid)"/>
+  <ellipse cx="185" cy="150" rx="330" ry="250" fill="url(#cyan-glow)"/>
+  <ellipse cx="1000" cy="145" rx="350" ry="255" fill="url(#violet-glow)"/>
+  <rect x="1" y="1" width="1178" height="298" rx="17" fill="none" stroke="url(#accent)" stroke-opacity=".65"/>
+
+  <g fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-opacity=".55">
+    <path d="M0 62h86l28 28h96l24 24h92"/>
+    <path d="M0 101h57l27 27h98l29 29h78"/>
+    <path d="M0 220h102l26-26h107l24-24h63"/>
+    <path d="M26 258h89l23-23h84"/>
+  </g>
+  <g fill="#22d3ee">
+    <circle cx="86" cy="62" r="3"/>
+    <circle cx="210" cy="90" r="3"/>
+    <circle cx="182" cy="128" r="3"/>
+    <circle cx="102" cy="220" r="3"/>
+    <circle cx="235" cy="194" r="3"/>
+  </g>
+
+  <g transform="translate(1180 0) scale(-1 1)" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity=".55">
+    <path d="M0 62h86l28 28h96l24 24h92"/>
+    <path d="M0 101h57l27 27h98l29 29h78"/>
+    <path d="M0 220h102l26-26h107l24-24h63"/>
+    <path d="M26 258h89l23-23h84"/>
+  </g>
+  <g fill="#a78bfa">
+    <circle cx="1094" cy="62" r="3"/>
+    <circle cx="970" cy="90" r="3"/>
+    <circle cx="998" cy="128" r="3"/>
+    <circle cx="1078" cy="220" r="3"/>
+    <circle cx="945" cy="194" r="3"/>
+  </g>
+
+  <g transform="translate(590 61)" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <path d="M-18-20-43 0l25 20" stroke="#22d3ee" stroke-width="6"/>
+    <path d="M18-20 43 0 18 20" stroke="#a78bfa" stroke-width="6"/>
+    <path d="M8-28-8 28" stroke="#e0e7ff" stroke-width="5"/>
+  </g>
+
+  <text x="590" y="154" text-anchor="middle" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing="5">SAHAN SANDARUWAN</text>
+  <rect x="328" y="178" width="524" height="38" rx="19" fill="#0b1222" stroke="url(#accent)" stroke-opacity=".75"/>
+  <text x="590" y="202" text-anchor="middle" fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="3">SOFTWARE ENGINEERING  •  AI  •  AUTOMATION</text>
+
+  <g fill="#64748b" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="1">
+    <text x="42" y="279">BUILD // LEARN // CREATE</text>
+    <text x="1138" y="279" text-anchor="end">COLOMBO // SRI LANKA</text>
+  </g>
+  <rect x="306" y="247" width="568" height="2" rx="1" fill="url(#accent)" opacity=".7">
+    <animate attributeName="opacity" values=".35;1;.35" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
