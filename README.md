@@ -1,5 +1,5 @@
 <!-- 🌌 CYBERPUNK HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:06B6D4&height=150&text=Hi,%20I'm%20Sahan%20Sandaruwan&fontSize=50&fontColor=E0E7FF&fontAlignY=45&animation=twinkling&desc=Software%20Engineering%20Student%20|%20Freelancer%20|%20Telegram%20Bot%20Developer&descSize=25&descAlignY=85" />
+<img src="assets/hand_banner.png" width="100%" />
 
 I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
 AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
@@ -35,16 +35,23 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## GitHub Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" height="180em"/>
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" height="180em"/>
-      </td>
-    </tr>
-  </table>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sahansbandara&hide_border=true&background=0D1117&stroke=06B6D4&ring=8B5CF6&fire=A855F7&currStreakLabel=06B6D4&sideLabels=A855F7&currStreakNum=E0E7FF&sideNums=E0E7FF&dates=94A3B8&card_width=1180" />
+    <img width="100%" src="https://streak-stats.demolab.com/?user=sahansbandara&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=9333EA&currStreakLabel=0891B2&sideLabels=7C3AED&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&card_width=1180" alt="Sahan's GitHub streak" />
+  </picture>
+
+  <br />
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=0891B2&text_color=0F172A" alt="Sahan's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A" alt="Sahan's top languages" />
+  </picture>
+
 </div>
 
 ---
@@ -52,18 +59,12 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## Coding Activity
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/sahansbandara">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" height="180em"/>
-        </a>
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" height="180em"/>
-      </td>
-    </tr>
-  </table>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=FFFFFF&color=0F172A&line=7C3AED&point=0891B2&area=true&area_color=C4B5FD&hide_border=true" alt="Sahan's contribution activity graph" />
+  </picture>
+
 </div>
 
 ---
@@ -95,7 +96,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## My Contributions
 
 <p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake-dark.svg" />
+    <img width="100%" alt="Snake eating Sahan's contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 
