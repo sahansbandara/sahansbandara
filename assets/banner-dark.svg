@@ -9,9 +9,28 @@
       <stop offset="1" stop-color="#120b25"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#06b6d4"/>
-      <stop offset=".5" stop-color="#6366f1"/>
-      <stop offset="1" stop-color="#a855f7"/>
+      <stop offset="0" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#6366f1;#06b6d4" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset=".5" stop-color="#6366f1">
+        <animate attributeName="stop-color" values="#6366f1;#a855f7;#6366f1" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#06b6d4;#a855f7" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="title-accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8fafc"/>
+      <stop offset=".42" stop-color="#f8fafc"/>
+      <stop offset=".5" stop-color="#67e8f9"/>
+      <stop offset=".58" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#f8fafc"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#67e8f9" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
     </linearGradient>
     <radialGradient id="cyan-glow">
       <stop offset="0" stop-color="#06b6d4" stop-opacity=".24"/>
@@ -37,6 +56,9 @@
   <rect width="1180" height="300" rx="18" fill="url(#grid)"/>
   <ellipse cx="185" cy="150" rx="330" ry="250" fill="url(#cyan-glow)"/>
   <ellipse cx="1000" cy="145" rx="350" ry="255" fill="url(#violet-glow)"/>
+  <rect x="-300" y="2" width="280" height="296" fill="url(#scan)" pointer-events="none">
+    <animate attributeName="x" values="-300;1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
   <rect x="1" y="1" width="1178" height="298" rx="17" fill="none" stroke="url(#accent)" stroke-opacity=".65"/>
 
   <g fill="none" stroke="#06b6d4" stroke-width="1.5" stroke-opacity=".55">
@@ -46,11 +68,14 @@
     <path d="M26 258h89l23-23h84"/>
   </g>
   <g fill="#22d3ee">
-    <circle cx="86" cy="62" r="3"/>
-    <circle cx="210" cy="90" r="3"/>
-    <circle cx="182" cy="128" r="3"/>
-    <circle cx="102" cy="220" r="3"/>
-    <circle cx="235" cy="194" r="3"/>
+    <circle cx="86" cy="62" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="210" cy="90" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin=".4s" repeatCount="indefinite"/></circle>
+    <circle cx="182" cy="128" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin=".8s" repeatCount="indefinite"/></circle>
+    <circle cx="102" cy="220" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="235" cy="194" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle r="4" filter="url(#glow)">
+      <animateMotion path="M0 62h86l28 28h96l24 24h92" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <g transform="translate(1180 0) scale(-1 1)" fill="none" stroke="#8b5cf6" stroke-width="1.5" stroke-opacity=".55">
@@ -60,20 +85,24 @@
     <path d="M26 258h89l23-23h84"/>
   </g>
   <g fill="#a78bfa">
-    <circle cx="1094" cy="62" r="3"/>
-    <circle cx="970" cy="90" r="3"/>
-    <circle cx="998" cy="128" r="3"/>
-    <circle cx="1078" cy="220" r="3"/>
-    <circle cx="945" cy="194" r="3"/>
+    <circle cx="1094" cy="62" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin=".2s" repeatCount="indefinite"/></circle>
+    <circle cx="970" cy="90" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin=".6s" repeatCount="indefinite"/></circle>
+    <circle cx="998" cy="128" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="1s" repeatCount="indefinite"/></circle>
+    <circle cx="1078" cy="220" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="1.4s" repeatCount="indefinite"/></circle>
+    <circle cx="945" cy="194" r="3"><animate attributeName="opacity" values=".35;1;.35" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+    <circle r="4" filter="url(#glow)">
+      <animateMotion path="M1180 62h-86l-28 28h-96l-24 24h-92" dur="4.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
   </g>
 
   <g transform="translate(590 61)" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <animateTransform attributeName="transform" additive="sum" type="translate" values="0 0;0 -5;0 0" dur="3s" repeatCount="indefinite"/>
     <path d="M-18-20-43 0l25 20" stroke="#22d3ee" stroke-width="6"/>
     <path d="M18-20 43 0 18 20" stroke="#a78bfa" stroke-width="6"/>
     <path d="M8-28-8 28" stroke="#e0e7ff" stroke-width="5"/>
   </g>
 
-  <text x="590" y="154" text-anchor="middle" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing="5">SAHAN SANDARUWAN</text>
+  <text x="590" y="154" text-anchor="middle" fill="url(#title-accent)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="800" letter-spacing="5">SAHAN SANDARUWAN</text>
   <rect x="328" y="178" width="524" height="38" rx="19" fill="#0b1222" stroke="url(#accent)" stroke-opacity=".75"/>
   <text x="590" y="202" text-anchor="middle" fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" letter-spacing="3">SOFTWARE ENGINEERING  •  AI  •  AUTOMATION</text>
 
@@ -82,6 +111,8 @@
     <text x="1138" y="279" text-anchor="end">COLOMBO // SRI LANKA</text>
   </g>
   <rect x="306" y="247" width="568" height="2" rx="1" fill="url(#accent)" opacity=".7">
-    <animate attributeName="opacity" values=".35;1;.35" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="width" values="220;568;220" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="x" values="480;306;480" dur="5s" repeatCount="indefinite"/>
   </rect>
 </svg>
