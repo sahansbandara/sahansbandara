@@ -1,5 +1,5 @@
 <!-- 🌌 CYBERPUNK HEADER -->
-<img src="assets/hand_banner.png" width="100%" />
+<img src="assets/sahan_cyberpunk_banner.png" width="100%" alt="Sahan Sandaruwan — Software Engineering, AI, and Automation" />
 
 I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
 AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
