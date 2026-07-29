@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="195" viewBox="0 0 260 195" role="img" aria-labelledby="title desc">
+  <title id="title">Developer Status</title>
+  <desc id="desc">Building, learning, and shipping</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111027"/>
+      <stop offset="1" stop-color="#071522"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .panel-bg { fill: url(#bg); }
+      .heading { fill: #e0e7ff; }
+      .muted { fill: #94a3b8; }
+      .track { stroke: #1e293b; }
+    </style>
+  </defs>
+
+  <rect class="panel-bg" x="1" y="1" width="258" height="193" rx="14" stroke="url(#accent)" stroke-opacity=".65"/>
+  <text x="20" y="31" fill="#a855f7" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2">DEV.STATUS</text>
+  <rect x="20" y="43" width="220" height="1.5" fill="url(#accent)" opacity=".65"/>
+
+  <g transform="translate(130 91)">
+    <circle class="track" r="32" fill="none" stroke-width="7"/>
+    <circle r="32" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-dasharray="150 52" transform="rotate(-90)">
+      <animateTransform attributeName="transform" type="rotate" values="-90;-60;-90" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="6" fill="#22d3ee" filter="url(#glow)">
+      <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".45;1;.45" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <text class="heading" x="130" y="140" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" letter-spacing="2">ACTIVE</text>
+  <text class="muted" x="130" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.4">BUILDING • LEARNING</text>
+  <text class="muted" x="130" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.4">SHIPPING</text>
+</svg>

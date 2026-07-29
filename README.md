@@ -15,10 +15,12 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## Current Streak
 
 <div align="center">
+  <img width="24%" src="assets/focus-panel.svg" alt="Current focus: AI systems, web applications, and automation" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" />
     <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&hide_border=true&background=FFFFFF&ring=7C3AED&fire=0891B2&currStreakLabel=0891B2&sideLabels=7C3AED" alt="Sahan's current GitHub streak" />
   </picture>
+  <img width="24%" src="assets/status-panel.svg" alt="Developer status: active, building, learning, and shipping" />
 </div>
 
 ---

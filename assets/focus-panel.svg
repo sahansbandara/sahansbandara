@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="195" viewBox="0 0 260 195" role="img" aria-labelledby="title desc">
+  <title id="title">Current Focus</title>
+  <desc id="desc">AI systems, web applications, and automation</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071522"/>
+      <stop offset="1" stop-color="#111027"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .panel-bg { fill: url(#bg); }
+      .heading { fill: #e0e7ff; }
+      .muted { fill: #94a3b8; }
+      .pill { fill: #111827; stroke: #334155; }
+    </style>
+  </defs>
+
+  <rect class="panel-bg" x="1" y="1" width="258" height="193" rx="14" stroke="url(#accent)" stroke-opacity=".65"/>
+  <text x="20" y="31" fill="#06b6d4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2">CURRENT.FOCUS</text>
+  <rect x="20" y="43" width="220" height="1.5" fill="url(#accent)" opacity=".65"/>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect class="pill" x="20" y="61" width="220" height="30" rx="8"/>
+    <circle cx="37" cy="76" r="4" fill="#22d3ee" filter="url(#glow)">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text class="heading" x="51" y="81" font-size="13" font-weight="700">AI Systems</text>
+
+    <rect class="pill" x="20" y="101" width="220" height="30" rx="8"/>
+    <circle cx="37" cy="116" r="4" fill="#6366f1" filter="url(#glow)">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.2s" begin=".7s" repeatCount="indefinite"/>
+    </circle>
+    <text class="heading" x="51" y="121" font-size="13" font-weight="700">Web Applications</text>
+
+    <rect class="pill" x="20" y="141" width="220" height="30" rx="8"/>
+    <circle cx="37" cy="156" r="4" fill="#a855f7" filter="url(#glow)">
+      <animate attributeName="opacity" values=".3;1;.3" dur="2.2s" begin="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <text class="heading" x="51" y="161" font-size="13" font-weight="700">Automation</text>
+  </g>
+
+  <text class="muted" x="130" y="187" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="8" letter-spacing="1">LEARN // BUILD // IMPROVE</text>
+</svg>
