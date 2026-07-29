@@ -113,11 +113,13 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/yatara.svg" alt="Yatara Ceylon mark" />
       <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a> · <a href="https://www.yataraceylon.me/">🌐 Live Site</a></h3>
       <p>Tourism operations and booking platform with dashboards, payments, fleet coordination, and finance management.</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>MongoDB</code></p>
     </td>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/healthlab.svg" alt="HealthLab mark" />
       <h3><a href="https://github.com/sahansbandara/healthlab-crowdsource">HealthLab Crowdsource</a></h3>
       <p>AI-assisted digital health research platform covering participants, moderation, analytics, and funding workflows.</p>
       <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini/Groq</code></p>
@@ -125,11 +127,13 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/tradingview.svg" alt="TradingView indicator mark" />
       <h3><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Advanced TradingView Indicator</a></h3>
       <p>Multi-signal market analysis indicator with SMC, divergences, order blocks, liquidity zones, and alerts.</p>
       <p><code>Pine Script</code> <code>TradingView</code> <code>Technical Analysis</code></p>
     </td>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/tracker.svg" alt="Vehicle and intern tracker mark" />
       <h3><a href="https://github.com/sahansbandara/sl-vehicle-intern-tracker">Vehicle &amp; Intern Tracker</a></h3>
       <p>Monitors 25+ Sri Lankan vehicle, dealer, news, and internship sources and sends categorized Telegram alerts.</p>
       <p><code>Node.js</code> <code>Apify</code> <code>Cheerio</code> <code>Docker</code></p>
@@ -137,11 +141,13 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/flicksl.svg" alt="FlickSL mark" />
       <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a> · <a href="https://app.imsahans.online/">🌐 Live Site</a></h3>
       <p>Telegram-first movie and series platform with search, subtitles, Mini App profiles, and secure file delivery.</p>
       <p><code>Python</code> <code>Hydrogram</code> <code>MongoDB</code> <code>aiohttp</code></p>
     </td>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/react-x-boss.svg" alt="React X Boss mark" />
       <h3><a href="https://github.com/sahansbandara/React-X-Boss">React X Boss</a></h3>
       <p>Channel engagement automation for reactions, poll voting, session orchestration, view workflows, and analytics.</p>
       <p><code>Python</code> <code>Aiogram</code> <code>Pyrogram</code> <code>MongoDB</code></p>
@@ -149,11 +155,13 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/toxic-nlp.svg" alt="Toxic Comment NLP mark" />
       <h3><a href="https://github.com/sahansbandara/Toxic-Comment-NLP-AIML-Project">Toxic Comment NLP</a></h3>
       <p>Modular machine-learning pipeline for toxic comment preprocessing, classification, evaluation, and inference.</p>
       <p><code>Python</code> <code>NLP</code> <code>Scikit-learn</code> <code>Machine Learning</code></p>
     </td>
     <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-marks/smartfold.svg" alt="SmartFold mark" />
       <h3><a href="https://github.com/sahansbandara/Laundry-Management-System-WEB">SmartFold</a></h3>
       <p>Full-stack laundry operations platform for orders, payments, inventory, staff tasks, and delivery tracking.</p>
       <p><code>Spring Boot</code> <code>Java</code> <code>MySQL</code> <code>JavaScript</code></p>
