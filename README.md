@@ -5,88 +5,138 @@
   <img src="assets/banner-light.svg" width="100%" alt="Sahan Sandaruwan — Software Engineering, AI, and Automation" />
 </picture>
 
-I'm **Sahan Sandaruwan**, a third-year **Software Engineering undergraduate at SLIIT** based in Sri Lanka. I build full-stack platforms, Telegram automation, market-analysis tools, and AI-assisted systems using **TypeScript, React/Next.js, Node.js, Python, and MongoDB**.
+I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
+AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
 
-**Open to software engineering internships and selected freelance projects.**
-
----
-
-## Featured Projects
-
-### [Yatara Ceylon](https://github.com/sahansbandara/Yatara-Ceylon) · [Live platform](https://yataraceylon.me)
-
-Tourism operations and booking platform with role-based dashboards, PayHere payments, fleet coordination, and real-time finance. **Stack:** `TypeScript` · `Next.js 15` · `React` · `MongoDB` · `MUI`
-
-### [HealthLab Crowdsource](https://github.com/sahansbandara/healthlab-crowdsource)
-
-Digital health research platform covering experiment management, participant workflows, moderation, analytics, funding, and AI-assisted research support. **Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Gemini/Groq`
-
-### [Advanced TradingView Indicator](https://github.com/sahansbandara/Advanced-TradingView-Indicator)
-
-All-in-one market-analysis indicator combining divergences, Smart Money Concepts, order blocks, liquidity swings, alerts, and moving averages. **Stack:** `Pine Script` · `TradingView`
-
-### [SL Vehicle & Intern Tracker](https://github.com/sahansbandara/sl-vehicle-intern-tracker)
-
-Apify automation that monitors 25+ Sri Lankan vehicle, dealer, news, and internship sources and routes categorized alerts to Telegram. **Stack:** `JavaScript` · `Node.js` · `Apify` · `Cheerio` · `Docker`
+💡 *"Crafting logic, innovation, and digital mastery every day."*
 
 ---
 
-## Core Stack
+## Current Streak
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,nodejs,python,mongodb,docker&theme=dark" alt="TypeScript, JavaScript, React, Next.js, Node.js, Python, MongoDB, and Docker" />
-</p>
-
-<p align="center">
-  <code>Pine Script</code> · <code>Express</code> · <code>Material UI</code> · <code>Apify</code> · <code>GitHub Actions</code>
-</p>
-
----
-
-## GitHub Snapshot
-
-<p align="center">
+<div align="center">
+  <img width="24%" src="assets/focus-panel.svg" alt="Current focus: AI systems, web applications, and automation" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/generated/github-overview-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/generated/github-overview-light.svg" />
-    <img width="100%" src="assets/generated/github-overview-light.svg" alt="Sahan's GitHub overview" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" />
+    <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&hide_border=true&background=FFFFFF&ring=7C3AED&fire=0891B2&currStreakLabel=0891B2&sideLabels=7C3AED" alt="Sahan's current GitHub streak" />
   </picture>
-</p>
+  <img width="24%" src="assets/status-panel.svg" alt="Developer status: active, building, learning, and shipping" />
+</div>
 
 ---
 
-## Connect
+## Connect With Me
 
 <p align="center">
+  <img width="18%" src="assets/connect-left.svg" alt="Let's connect" />
   <a href="mailto:Sahansbandara.mail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0f0f23?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Email" />
+    <img src="https://img.shields.io/badge/GMAIL-0f0f23?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
   </a>
   <a href="https://www.linkedin.com/in/imsahans">
-    <img src="https://img.shields.io/badge/LinkedIn-0f0f23?style=for-the-badge&logo=linkedin&logoColor=06B6D4" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0f0f23?style=for-the-badge&logo=linkedin&logoColor=06B6D4" />
   </a>
   <a href="https://instagram.com/imsahans">
-    <img src="https://img.shields.io/badge/Instagram-0f0f23?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-0f0f23?style=for-the-badge&logo=instagram&logoColor=A855F7" />
   </a>
   <a href="https://t.me/ImSahans">
-    <img src="https://img.shields.io/badge/Telegram-0f0f23?style=for-the-badge&logo=telegram&logoColor=06B6D4" alt="Telegram" />
+    <img src="https://img.shields.io/badge/TELEGRAM-0f0f23?style=for-the-badge&logo=telegram&logoColor=06B6D4" />
   </a>
+  <img width="18%" src="assets/connect-right.svg" alt="Open to collaboration" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=8B5CF6&label=Profile%20Views" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=06B6D4&style=flat" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=8B5CF6&label=Profile%20Views" />
+  <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=06B6D4&style=flat" />
 </p>
 
 ---
 
-## Contributions
+## GitHub Statistics
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=0891B2&text_color=0F172A" alt="Sahan's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A" alt="Sahan's top languages" />
+  </picture>
+
+</div>
+
+---
+
+## Coding Activity
+
+<p align="center">
+  <img width="100%" src="assets/activity-motion.svg" alt="Animated contribution activity signal" />
+</p>
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=FFFFFF&color=0F172A&line=7C3AED&point=0891B2&area=true&area_color=C4B5FD&hide_border=true" alt="Sahan's contribution activity graph" />
+  </picture>
+
+</div>
+
+---
+
+## Tech Stack & Achievements
+
+### Skills
+
+<p align="center">
+  <img width="100%" src="assets/skills-motion.svg" alt="Skill matrix heading" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dotnet,javascript,react,nodejs,php,mysql,mongodb,docker,kubernetes,html,css&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
+</p>
+
+### GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="assets/trophies-motion.svg" alt="Achievements heading" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
+</p>
+
+### Tools
+
+<p align="center">
+  <img width="100%" src="assets/tools-motion.svg" alt="Toolchain heading" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,postman,figma,npm,bash,powershell,vercel,heroku,azure,gcp,photoshop&theme=dark&perline=15" />
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
+</p>
+
+## My Contributions
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake-dark.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg" alt="Snake animation over Sahan's GitHub contributions" />
+    <img width="100%" alt="Snake eating Sahan's contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
 
 <!-- 🌌 CYBERPUNK FOOTER -->
 <picture>
