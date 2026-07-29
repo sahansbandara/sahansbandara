@@ -91,7 +91,11 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,react,nodejs,php,mysql,mongodb,html,css&theme=dark" />
+  <img width="100%" src="assets/skills-motion.svg" alt="Animated skill matrix" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,dotnet,javascript,react,nodejs,php,mysql,mongodb,docker,kubernetes,html,css&theme=dark" />
 </p>
 
 ---
@@ -99,12 +103,20 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img width="100%" src="assets/trophies-motion.svg" alt="Animated achievements signal" />
+</p>
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
 
 ## Tools
+
+<p align="center">
+  <img width="100%" src="assets/tools-motion.svg" alt="Animated toolchain status" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
