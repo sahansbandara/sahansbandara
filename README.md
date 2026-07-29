@@ -107,8 +107,59 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 <!-- FEATURED PROJECTS -->
 <p align="center">
-  <img width="100%" src="assets/projects.png" alt="Eight featured software, AI, automation, and Telegram projects" />
+  <img width="100%" src="assets/section-projects.svg" alt="Featured Projects" />
 </p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a></h3>
+      <p>Tourism operations and booking platform with dashboards, payments, fleet coordination, and finance management.</p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/healthlab-crowdsource">HealthLab Crowdsource</a></h3>
+      <p>AI-assisted digital health research platform covering participants, moderation, analytics, and funding workflows.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Gemini/Groq</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Advanced TradingView Indicator</a></h3>
+      <p>Multi-signal market analysis indicator with SMC, divergences, order blocks, liquidity zones, and alerts.</p>
+      <p><code>Pine Script</code> <code>TradingView</code> <code>Technical Analysis</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/sl-vehicle-intern-tracker">Vehicle &amp; Intern Tracker</a></h3>
+      <p>Monitors 25+ Sri Lankan vehicle, dealer, news, and internship sources and sends categorized Telegram alerts.</p>
+      <p><code>Node.js</code> <code>Apify</code> <code>Cheerio</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a></h3>
+      <p>Telegram-first movie and series platform with search, subtitles, Mini App profiles, and secure file delivery.</p>
+      <p><code>Python</code> <code>Hydrogram</code> <code>MongoDB</code> <code>aiohttp</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/React-X-Boss">React X Boss</a></h3>
+      <p>Channel engagement automation for reactions, poll voting, session orchestration, view workflows, and analytics.</p>
+      <p><code>Python</code> <code>Aiogram</code> <code>Pyrogram</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/Toxic-Comment-NLP-AIML-Project">Toxic Comment NLP</a></h3>
+      <p>Modular machine-learning pipeline for toxic comment preprocessing, classification, evaluation, and inference.</p>
+      <p><code>Python</code> <code>NLP</code> <code>Scikit-learn</code> <code>Machine Learning</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/sahansbandara/Laundry-Management-System-WEB">SmartFold</a></h3>
+      <p>Full-stack laundry operations platform for orders, payments, inventory, staff tasks, and delivery tracking.</p>
+      <p><code>Spring Boot</code> <code>Java</code> <code>MySQL</code> <code>JavaScript</code></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
