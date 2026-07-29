@@ -88,38 +88,36 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Skills
+## Tech Stack & Achievements
 
-<p align="center">
-  <img width="100%" src="assets/skills-motion.svg" alt="Animated skill matrix" />
-</p>
+### Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,dotnet,javascript,react,nodejs,php,mysql,mongodb,docker,kubernetes,html,css&theme=dark" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="assets/skills-motion.svg" alt="Animated skill matrix separator" />
+</p>
 
-## GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="assets/trophies-motion.svg" alt="Animated achievements signal" />
+  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <img width="100%" src="assets/trophies-motion.svg" alt="Animated achievements separator" />
 </p>
 
----
-
-## Tools
+### Tools
 
 <p align="center">
-  <img width="100%" src="assets/tools-motion.svg" alt="Animated toolchain status" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,docker,kubernetes,postman,figma,npm,bash,powershell,vercel,heroku,azure,gcp,photoshop&theme=dark&perline=9" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,heroku,azure,gcp,photoshop&theme=dark" />
+  <img width="100%" src="assets/tools-motion.svg" alt="Animated toolchain separator" />
 </p>
 
 ---
