@@ -19,14 +19,13 @@
       </feMerge>
     </filter>
     <style>
-      .panel-bg { fill: url(#bg); }
       .heading { fill: #e0e7ff; }
       .muted { fill: #94a3b8; }
       .pill { fill: #111827; stroke: #334155; }
     </style>
   </defs>
 
-  <rect class="panel-bg" x="1" y="1" width="258" height="193" rx="14" stroke="url(#accent)" stroke-opacity=".65"/>
+  <rect width="260" height="195" fill="#0d1117"/>
   <text x="20" y="31" fill="#06b6d4" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" letter-spacing="2">CURRENT.FOCUS</text>
   <rect x="20" y="43" width="220" height="1.5" fill="url(#accent)" opacity=".65"/>
 
