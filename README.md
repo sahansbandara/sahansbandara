@@ -113,7 +113,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a> · <a href="https://www.yataraceylon.me/">Website</a></h3>
+      <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a> · <a href="https://www.yataraceylon.me/">🌐 Live Site</a></h3>
       <p>Tourism operations and booking platform with dashboards, payments, fleet coordination, and finance management.</p>
       <p><code>TypeScript</code> <code>Next.js</code> <code>React</code> <code>MongoDB</code></p>
     </td>
@@ -137,7 +137,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a> · <a href="https://app.imsahans.online/">Website</a></h3>
+      <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a> · <a href="https://app.imsahans.online/">🌐 Live Site</a></h3>
       <p>Telegram-first movie and series platform with search, subtitles, Mini App profiles, and secure file delivery.</p>
       <p><code>Python</code> <code>Hydrogram</code> <code>MongoDB</code> <code>aiohttp</code></p>
     </td>
