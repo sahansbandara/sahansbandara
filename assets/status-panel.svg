@@ -41,7 +41,7 @@
     </circle>
   </g>
 
-  <text class="heading" x="130" y="140" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" letter-spacing="2">ACTIVE</text>
-  <text class="muted" x="130" y="159" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.4">BUILDING • LEARNING</text>
-  <text class="muted" x="130" y="174" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.4">SHIPPING</text>
+  <text class="heading" x="130" y="151" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="800" letter-spacing="2">ACTIVE</text>
+  <text class="muted" x="130" y="169" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.4">BUILDING • LEARNING</text>
+  <text class="muted" x="130" y="184" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="9" letter-spacing="1.4">SHIPPING</text>
 </svg>

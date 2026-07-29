@@ -28,6 +28,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ## Connect With Me
 
 <p align="center">
+  <img width="18%" src="assets/connect-left.svg" alt="Let's connect" />
   <a href="mailto:Sahansbandara.mail@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-0f0f23?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
   </a>
@@ -40,6 +41,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <a href="https://t.me/ImSahans">
     <img src="https://img.shields.io/badge/TELEGRAM-0f0f23?style=for-the-badge&logo=telegram&logoColor=06B6D4" />
   </a>
+  <img width="18%" src="assets/connect-right.svg" alt="Open to collaboration" />
 </p>
 
 <p align="center">
