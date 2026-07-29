@@ -1,4 +1,4 @@
-<!-- 🌌 CYBERPUNK HEADER -->
+<!-- CYBERPUNK HEADER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
@@ -12,7 +12,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
-## Current Streak
+<!-- CURRENT STREAK -->
+<p align="center">
+  <img width="100%" src="assets/section-streak.svg" alt="Current Streak" />
+</p>
 
 <div align="center">
   <img width="24%" src="assets/focus-panel.svg" alt="Current focus: AI systems, web applications, and automation" />
@@ -23,35 +26,37 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <img width="24%" src="assets/status-panel.svg" alt="Developer status: active, building, learning, and shipping" />
 </div>
 
----
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
 
-## Connect With Me
+<!-- CONNECT -->
+<p align="center">
+  <img width="100%" src="assets/section-connect.svg" alt="Connect With Me" />
+</p>
 
 <p align="center">
   <img width="18%" src="assets/connect-left.svg" alt="Let's connect" />
-  <a href="mailto:Sahansbandara.mail@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-0f0f23?style=for-the-badge&logo=gmail&logoColor=8B5CF6" />
-  </a>
-  <a href="https://www.linkedin.com/in/imsahans">
-    <img src="https://img.shields.io/badge/LINKEDIN-0f0f23?style=for-the-badge&logo=linkedin&logoColor=06B6D4" />
-  </a>
-  <a href="https://instagram.com/imsahans">
-    <img src="https://img.shields.io/badge/INSTAGRAM-0f0f23?style=for-the-badge&logo=instagram&logoColor=A855F7" />
-  </a>
-  <a href="https://t.me/ImSahans">
-    <img src="https://img.shields.io/badge/TELEGRAM-0f0f23?style=for-the-badge&logo=telegram&logoColor=06B6D4" />
-  </a>
+  <a href="mailto:Sahansbandara.mail@gmail.com"><img src="https://img.shields.io/badge/GMAIL-0f0f23?style=for-the-badge&logo=gmail&logoColor=8B5CF6" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/imsahans"><img src="https://img.shields.io/badge/LINKEDIN-0f0f23?style=for-the-badge&logo=linkedin&logoColor=06B6D4" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/imsahans"><img src="https://img.shields.io/badge/INSTAGRAM-0f0f23?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" /></a>
+  <a href="https://t.me/ImSahans"><img src="https://img.shields.io/badge/TELEGRAM-0f0f23?style=for-the-badge&logo=telegram&logoColor=06B6D4" alt="Telegram" /></a>
   <img width="18%" src="assets/connect-right.svg" alt="Open to collaboration" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=8B5CF6&label=Profile%20Views" />
-  <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=06B6D4&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sahansbandara&color=8B5CF6&label=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=06B6D4&style=flat" alt="GitHub followers" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
 
-## GitHub Statistics
+<!-- GITHUB STATISTICS -->
+<p align="center">
+  <img width="100%" src="assets/section-stats.svg" alt="GitHub Statistics" />
+</p>
 
 <div align="center">
   <picture>
@@ -60,85 +65,90 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" />
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A" alt="Sahan's top languages" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A" alt="Sahan's most used languages" />
   </picture>
-
 </div>
 
----
-
-## Coding Activity
-
 <p align="center">
-  <img width="100%" src="assets/activity-motion.svg" alt="Animated contribution activity signal" />
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- CODING ACTIVITY -->
+<p align="center">
+  <img width="100%" src="assets/section-activity.svg" alt="Coding Activity" />
 </p>
 
 <div align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" />
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=FFFFFF&color=0F172A&line=7C3AED&point=0891B2&area=true&area_color=C4B5FD&hide_border=true" alt="Sahan's contribution activity graph" />
   </picture>
-
 </div>
 
----
-
-## Tech Stack & Achievements
-
-### Skills
-
 <p align="center">
-  <img width="100%" src="assets/skills-motion.svg" alt="Skill matrix heading" />
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- TECHNICAL STACK -->
+<p align="center">
+  <img width="100%" src="assets/section-stack.svg" alt="Technical Stack" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,dotnet,javascript,react,nodejs,php,mysql,mongodb,docker,kubernetes,html,css&theme=dark" />
+  <img width="100%" src="assets/skills-motion.svg" alt="Skill Matrix" />
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
-</p>
-
-### GitHub Trophies
-
-<p align="center">
-  <img width="100%" src="assets/trophies-motion.svg" alt="Achievements heading" />
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,dotnet,mongodb,docker,kubernetes,mysql&theme=dark&perline=10" alt="Core skills" />
 </p>
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
+  <sub><b>TypeScript · React · Next.js · Node.js · Python · .NET · MongoDB · Docker · Kubernetes · MySQL</b></sub>
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
+  <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
-### Tools
-
+<!-- FEATURED PROJECTS -->
 <p align="center">
-  <img width="100%" src="assets/tools-motion.svg" alt="Toolchain heading" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,postman,figma,npm,bash,powershell,vercel,heroku,azure,gcp,photoshop&theme=dark&perline=15" />
+  <img width="100%" src="assets/projects.svg" alt="Featured projects: Yatara Ceylon, HealthLab, Advanced TradingView Indicator, and SL Vehicle and Intern Tracker" />
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
+  <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
-## My Contributions
+<!-- TOOLS -->
+<p align="center">
+  <img width="100%" src="assets/tools-motion.svg" alt="Toolchain Ready" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,figma,vercel,azure&theme=dark&perline=8" alt="Primary development tools" />
+</p>
+
+<p align="center">
+  <sub><b>VS Code · Git · GitHub · Linux · Postman · Figma · Vercel · Azure</b></sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- CONTRIBUTIONS -->
+<p align="center">
+  <img width="100%" src="assets/section-contributions.svg" alt="My Contributions" />
+</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake-dark.svg" />
-    <img width="100%" alt="Snake eating Sahan's contributions" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg" alt="Snake eating Sahan's contributions" />
   </picture>
 </p>
 
-
-<!-- 🌌 CYBERPUNK FOOTER -->
+<!-- CYBERPUNK FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />

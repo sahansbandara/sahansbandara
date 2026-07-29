@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="60" viewBox="0 0 1180 60" role="img" aria-label="My Contributions">
+  <defs><linearGradient id="g"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#a855f7"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+  <rect width="1180" height="60" fill="#0d1117"/><path d="M18 30H454M726 30h436" stroke="url(#g)" stroke-width="2" opacity=".75"/>
+  <rect x="454" y="8" width="272" height="44" rx="22" fill="#0b1222" stroke="url(#g)" stroke-width="1.5"/>
+  <circle cx="484" cy="30" r="5" fill="#22d3ee" filter="url(#glow)"/><text x="598" y="35" text-anchor="middle" fill="#e0e7ff" font-family="ui-monospace,monospace" font-size="13" font-weight="700" letter-spacing="1.8">MY CONTRIBUTIONS</text>
+</svg>
