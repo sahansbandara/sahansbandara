@@ -111,4 +111,8 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 
 <!-- 🌌 CYBERPUNK FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6366F1,100:8B5CF6&height=100&section=footer&text=Thanks%20for%20Visiting%20✨&fontSize=25&fontColor=E0E7FF&animation=twinkling" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg" />
+  <img src="assets/footer-light.svg" width="100%" alt="Thanks for visiting Sahan's GitHub profile" />
+</picture>

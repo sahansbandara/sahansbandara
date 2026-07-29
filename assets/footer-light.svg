@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="180" viewBox="0 0 1180 180" role="img" aria-labelledby="title desc">
+  <title id="title">Thanks for Visiting</title>
+  <desc id="desc">Animated cyberpunk footer matching Sahan Sandaruwan's profile banner</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ecfeff"/>
+      <stop offset=".5" stop-color="#f8fafc"/>
+      <stop offset="1" stop-color="#f5f3ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0891b2">
+        <animate attributeName="stop-color" values="#0891b2;#4f46e5;#0891b2" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset=".5" stop-color="#4f46e5">
+        <animate attributeName="stop-color" values="#4f46e5;#7c3aed;#4f46e5" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#7c3aed">
+        <animate attributeName="stop-color" values="#7c3aed;#0891b2;#7c3aed" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="wave-one" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity=".55"/>
+      <stop offset=".5" stop-color="#4f46e5" stop-opacity=".45"/>
+      <stop offset="1" stop-color="#0891b2" stop-opacity=".5"/>
+    </linearGradient>
+    <linearGradient id="wave-two" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7" stop-opacity=".22"/>
+      <stop offset=".5" stop-color="#06b6d4" stop-opacity=".18"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity=".22"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#475569" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+
+  <rect width="1180" height="180" rx="18" fill="url(#background)"/>
+  <rect width="1180" height="180" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1178" height="178" rx="17" fill="none" stroke="url(#accent)" stroke-opacity=".55"/>
+
+  <g fill="none" stroke-linecap="round">
+    <path d="M0 46h128l22 22h126" stroke="#0891b2" stroke-opacity=".4" stroke-width="1.5"/>
+    <path d="M1180 46h-128l-22 22H904" stroke="#7c3aed" stroke-opacity=".4" stroke-width="1.5"/>
+    <circle r="4" fill="#0891b2" filter="url(#glow)">
+      <animateMotion path="M0 46h128l22 22h126" dur="4s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="4" fill="#7c3aed" filter="url(#glow)">
+      <animateMotion path="M1180 46h-128l-22 22H904" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <g transform="translate(590 73)">
+    <text x="0" y="0" text-anchor="middle" fill="#0f172a" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="4">THANKS FOR VISITING</text>
+    <rect x="-226" y="16" width="452" height="1.5" rx=".75" fill="url(#accent)">
+      <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="0" y="39" text-anchor="middle" fill="#475569" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="2">SESSION COMPLETE  //  SEE YOU IN THE NEXT COMMIT</text>
+  </g>
+
+  <g fill="#0891b2" filter="url(#glow)">
+    <circle cx="345" cy="66" r="2">
+      <animate attributeName="r" values="1;4;1" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".25;1;.25" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="835" cy="66" r="2">
+      <animate attributeName="r" values="1;4;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".25;1;.25" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <path fill="url(#wave-two)" d="M0 137C180 115 310 161 492 139S820 110 1180 138V180H0Z">
+    <animate attributeName="d"
+      values="M0 137C180 115 310 161 492 139S820 110 1180 138V180H0Z;
+              M0 146C180 164 330 117 510 139S825 162 1180 133V180H0Z;
+              M0 137C180 115 310 161 492 139S820 110 1180 138V180H0Z"
+      dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#wave-one)" d="M0 151C210 176 346 129 556 150S905 173 1180 145V180H0Z">
+    <animate attributeName="d"
+      values="M0 151C210 176 346 129 556 150S905 173 1180 145V180H0Z;
+              M0 144C196 121 364 171 564 148S920 119 1180 153V180H0Z;
+              M0 151C210 176 346 129 556 150S905 173 1180 145V180H0Z"
+      dur="7s" repeatCount="indefinite"/>
+  </path>
+</svg>
