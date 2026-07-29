@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="48" viewBox="0 0 1180 48" role="img" aria-labelledby="title">
+  <title id="title">Contribution Signal</title>
+  <defs>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset=".18" stop-color="#06b6d4"/>
+      <stop offset=".5" stop-color="#6366f1"/>
+      <stop offset=".82" stop-color="#a855f7"/>
+      <stop offset="1" stop-color="#a855f7" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-200%" width="200%" height="500%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1180" height="48" fill="#0d1117"/>
+  <path d="M0 26h160l18-10 20 21 25-26 22 15h88l18-8 18 8h106l15-12 21 24 24-28 22 16h90l17-10 19 10h90l18-14 22 25 23-19 18 8H1180" fill="none" stroke="#1e293b" stroke-width="2"/>
+  <path d="M0 26h160l18-10 20 21 25-26 22 15h88l18-8 18 8h106l15-12 21 24 24-28 22 16h90l17-10 19 10h90l18-14 22 25 23-19 18 8H1180"
+    fill="none" stroke="url(#signal)" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="90 1090" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" values="90;-1090" dur="5.5s" repeatCount="indefinite"/>
+  </path>
+
+  <rect x="496" y="10" width="188" height="28" rx="14" fill="#0b1222" stroke="#334155"/>
+  <text x="590" y="28" text-anchor="middle" fill="#cbd5e1" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="10" font-weight="700" letter-spacing="1.5">CONTRIBUTION SIGNAL</text>
+</svg>

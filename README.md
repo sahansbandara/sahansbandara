@@ -53,6 +53,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ## GitHub Statistics
 
+<p align="center">
+  <img width="100%" src="assets/stats-motion.svg" alt="Animated live GitHub metrics signal" />
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" />
@@ -68,6 +72,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ---
 
 ## Coding Activity
+
+<p align="center">
+  <img width="100%" src="assets/activity-motion.svg" alt="Animated contribution activity signal" />
+</p>
 
 <div align="center">
 
