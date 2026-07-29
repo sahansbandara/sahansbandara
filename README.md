@@ -93,34 +93,44 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ### Skills
 
 <p align="center">
+  <img width="100%" src="assets/skills-motion.svg" alt="Animated skill matrix heading" />
+</p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,dotnet,javascript,react,nodejs,php,mysql,mongodb,docker,kubernetes,html,css&theme=dark" />
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/skills-motion.svg" alt="Animated skill matrix separator" />
+  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
 </p>
 
 ### GitHub Trophies
+
+<p align="center">
+  <img width="100%" src="assets/trophies-motion.svg" alt="Animated achievements heading" />
+</p>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=sahansbandara&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&margin-h=10" />
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/trophies-motion.svg" alt="Animated achievements separator" />
+  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
 </p>
 
 ### Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,docker,kubernetes,postman,figma,npm,bash,powershell,vercel,heroku,azure,gcp,photoshop&theme=dark&perline=9" />
+  <img width="100%" src="assets/tools-motion.svg" alt="Animated toolchain heading" />
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/tools-motion.svg" alt="Animated toolchain separator" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,linux,postman,figma,npm,bash,powershell,vercel,heroku,azure,gcp,photoshop&theme=dark&perline=15" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="Animated section divider" />
+</p>
 
 ## My Contributions
 
