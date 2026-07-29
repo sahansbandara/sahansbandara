@@ -16,8 +16,8 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=sahansbandara&hide_border=true&background=0D1117&stroke=06B6D4&ring=8B5CF6&fire=A855F7&currStreakLabel=06B6D4&sideLabels=A855F7&currStreakNum=E0E7FF&sideNums=E0E7FF&dates=94A3B8&card_width=1180" />
-    <img width="100%" src="https://streak-stats.demolab.com/?user=sahansbandara&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=9333EA&currStreakLabel=0891B2&sideLabels=7C3AED&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&card_width=1180" alt="Sahan's current GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" />
+    <img width="100%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&hide_border=true&background=FFFFFF&ring=7C3AED&fire=0891B2&currStreakLabel=0891B2&sideLabels=7C3AED" alt="Sahan's current GitHub streak" />
   </picture>
 </div>
 
