@@ -20,17 +20,9 @@
     </filter>
   </defs>
   <rect width="1180" height="60" fill="#0d1117"/>
-  <path d="M18 30H465" fill="none" stroke="url(#left)" stroke-width="2"/>
-  <path d="M715 30H1162" fill="none" stroke="url(#right)" stroke-width="2"/>
-  <circle r="4" fill="#22d3ee" filter="url(#glow)">
-    <animateMotion path="M18 30H465" dur="4.5s" repeatCount="indefinite"/>
-  </circle>
-  <circle r="4" fill="#a78bfa" filter="url(#glow)">
-    <animateMotion path="M1162 30H715" dur="4.5s" begin="1s" repeatCount="indefinite"/>
-  </circle>
+  <path d="M18 30H465" fill="none" stroke="#06b6d4" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M715 30H1162" fill="none" stroke="#8b5cf6" stroke-opacity=".55" stroke-width="2"/>
   <rect x="465" y="9" width="250" height="42" rx="21" fill="#0b1222" stroke="url(#pill)" stroke-width="1.5"/>
-  <circle cx="495" cy="30" r="5" fill="#22d3ee" filter="url(#glow)">
-    <animate attributeName="opacity" values=".25;1;.25" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
+  <circle cx="495" cy="30" r="5" fill="#22d3ee" filter="url(#glow)"/>
   <text x="603" y="35" text-anchor="middle" fill="#e0e7ff" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" letter-spacing="2">SKILL MATRIX</text>
 </svg>

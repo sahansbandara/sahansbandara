@@ -53,10 +53,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ## GitHub Statistics
 
-<p align="center">
-  <img width="100%" src="assets/stats-motion.svg" alt="Animated live GitHub metrics signal" />
-</p>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" />
@@ -93,7 +89,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ### Skills
 
 <p align="center">
-  <img width="100%" src="assets/skills-motion.svg" alt="Animated skill matrix heading" />
+  <img width="100%" src="assets/skills-motion.svg" alt="Skill matrix heading" />
 </p>
 
 <p align="center">
@@ -107,7 +103,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ### GitHub Trophies
 
 <p align="center">
-  <img width="100%" src="assets/trophies-motion.svg" alt="Animated achievements heading" />
+  <img width="100%" src="assets/trophies-motion.svg" alt="Achievements heading" />
 </p>
 
 <p align="center">
@@ -121,7 +117,7 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 ### Tools
 
 <p align="center">
-  <img width="100%" src="assets/tools-motion.svg" alt="Animated toolchain heading" />
+  <img width="100%" src="assets/tools-motion.svg" alt="Toolchain heading" />
 </p>
 
 <p align="center">
