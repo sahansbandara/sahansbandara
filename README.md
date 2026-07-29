@@ -26,6 +26,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <img width="24%" src="assets/status-panel.svg" alt="Developer status: active, building, learning, and shipping" />
 </div>
 
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- CONNECT -->
 <p align="center">
   <img width="100%" src="assets/section-connect.svg" alt="Connect With Me" />
@@ -45,6 +49,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <img src="https://img.shields.io/github/followers/sahansbandara?label=Followers&color=06B6D4&style=flat" alt="GitHub followers" />
 </p>
 
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- GITHUB STATISTICS -->
 <p align="center">
   <img width="100%" src="assets/section-stats.svg" alt="GitHub Statistics" />
@@ -61,6 +69,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   </picture>
 </div>
 
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- CODING ACTIVITY -->
 <p align="center">
   <img width="100%" src="assets/section-activity.svg" alt="Coding Activity" />
@@ -74,6 +86,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 </div>
 
 <p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<p align="center">
   <img width="100%" src="assets/skills-motion.svg" alt="Skill Matrix" />
 </p>
 
@@ -85,9 +101,17 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <sub><b>TypeScript · React · Next.js · Node.js · Python · .NET · MongoDB · Docker · Kubernetes · MySQL</b></sub>
 </p>
 
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- FEATURED PROJECTS -->
 <p align="center">
   <img width="100%" src="assets/projects.png" alt="Eight featured software, AI, automation, and Telegram projects" />
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
 <!-- TOOLS -->
@@ -101,6 +125,10 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 <p align="center">
   <sub><b>VS Code · Git · GitHub · Linux · Postman · Figma · Vercel · Azure</b></sub>
+</p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
 <!-- CONTRIBUTIONS -->
