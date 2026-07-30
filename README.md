@@ -5,114 +5,6 @@
   <img src="assets/banner-light.svg" width="100%" alt="Sahan Sandaruwan — Software Engineering, AI, and Automation" />
 </picture>
 
-I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
-AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
-
-💡 *"Crafting logic, innovation, and digital mastery every day."*
-
----
-
-<!-- FEATURED PROJECTS -->
-<p align="center">
-  <img width="100%" src="assets/section-projects.svg" alt="Featured Projects" />
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/yatara.png" alt="Yatara Ceylon logo" />
-      <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a> · <a href="https://www.yataraceylon.me/">🌐 Live Site</a></h3>
-      <p>Tourism operations and booking platform with role-based dashboards, PayHere payments, fleet coordination, and finance management.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/healthlab.png" alt="HealthLab logo" />
-      <h3><a href="https://github.com/sahansbandara/healthlab-crowdsource">HealthLab Crowdsource</a></h3>
-      <p>AI-assisted health research platform with participant workflows, experiment management, moderation, analytics, and funding support.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/tradingview.png" alt="TradingView logo" />
-      <h3><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Advanced TradingView Indicator</a></h3>
-      <p>Market-analysis indicator combining SMC, divergences, order blocks, liquidity zones, moving averages, and configurable alerts.</p>
-      <p><code>Pine Script</code> <code>TradingView</code> <code>SMC</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/tracker.png" alt="Vehicle and intern tracker logo" />
-      <h3><a href="https://github.com/sahansbandara/sl-vehicle-intern-tracker">Vehicle &amp; Intern Tracker</a></h3>
-      <p>Automation that monitors 25+ Sri Lankan vehicle, dealer, news, and internship sources and sends categorized Telegram alerts.</p>
-      <p><code>Node.js</code> <code>Apify</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/flicksl.png" alt="FlickSL logo" />
-      <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a> · <a href="https://app.imsahans.online/">🌐 Live Site</a></h3>
-      <p>Telegram-first movie and series platform with intelligent search, TMDB metadata, subtitles, Mini App profiles, and secure file delivery.</p>
-      <p><code>Python</code> <code>Hydrogram</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/react-x-boss.png" alt="React X Boss logo" />
-      <h3><a href="https://github.com/sahansbandara/React-X-Boss">React X Boss</a></h3>
-      <p>Channel engagement automation using bot and user sessions for reactions, polls, auto-approval, view workflows, and analytics.</p>
-      <p><code>Python</code> <code>Aiogram</code> <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/toxic-nlp.png" alt="Toxic Comment NLP logo" />
-      <h3><a href="https://github.com/sahansbandara/Toxic-Comment-NLP-AIML-Project">Toxic Comment NLP</a></h3>
-      <p>Modular NLP pipeline covering text preprocessing, feature extraction, model training, evaluation, classification, and inference.</p>
-      <p><code>Python</code> <code>NLP</code> <code>Scikit-learn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="52" hspace="10" src="assets/project-logos/smartfold.png" alt="SmartFold logo" />
-      <h3><a href="https://github.com/sahansbandara/Laundry-Management-System-WEB">SmartFold</a></h3>
-      <p>Role-based laundry operations system for customer orders, payments, inventory, staff tasks, delivery tracking, and notifications.</p>
-      <p><code>Spring Boot</code> <code>Java</code> <code>MySQL</code></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- CURRENT STREAK -->
-<p align="center">
-  <img width="100%" src="assets/section-streak.svg" alt="Current Streak" />
-</p>
-
-<div align="center">
-  <img width="24%" src="assets/focus-panel.svg" alt="Current focus: AI systems, web applications, and automation" />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" />
-    <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&hide_border=true&background=FFFFFF&ring=7C3AED&fire=0891B2&currStreakLabel=0891B2&sideLabels=7C3AED" alt="Sahan's current GitHub streak" />
-  </picture>
-  <img width="24%" src="assets/status-panel.svg" alt="Developer status: active, building, learning, and shipping" />
-</div>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- DEVOPS -->
-<p align="center">
-  <img width="100%" src="assets/stack-devops-tools.svg" alt="DevOps and Tools" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=dark" alt="DevOps and development tools" />
-</p>
-
-<p align="center"><sub><b>Git · GitHub · GitHub Actions · Jenkins · Postman · VS Code · IntelliJ IDEA · Bash · Grafana · Terraform</b></sub></p>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
 <!-- CONNECT -->
 <p align="center">
   <img width="100%" src="assets/section-connect.svg" alt="Connect With Me" />
@@ -136,6 +28,113 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
+I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
+AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
+
+💡 *"Crafting logic, innovation, and digital mastery every day."*
+
+---
+
+<!-- FEATURED PROJECTS -->
+<p align="center">
+  <img width="100%" src="assets/section-projects.svg" alt="Featured Projects" />
+</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Purpose</th>
+      <th>Stack</th>
+      <th>Repository</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Yatara Ceylon</strong></td>
+      <td>Tourism operations and booking platform with role-based dashboards, PayHere payments, fleet coordination, and finance management.</td>
+      <td>TypeScript, Next.js, MongoDB</td>
+      <td><a href="https://github.com/sahansbandara/Yatara-Ceylon">Repository</a><br><a href="https://www.yataraceylon.me/">Live Site</a></td>
+    </tr>
+    <tr>
+      <td><strong>HealthLab Crowdsource</strong></td>
+      <td>AI-assisted health research platform with participant workflows, experiment management, moderation, analytics, and funding support.</td>
+      <td>React, Node.js, MongoDB</td>
+      <td><a href="https://github.com/sahansbandara/healthlab-crowdsource">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Advanced TradingView Indicator</strong></td>
+      <td>Market-analysis indicator combining SMC, divergences, order blocks, liquidity zones, moving averages, and configurable alerts.</td>
+      <td>Pine Script, TradingView, SMC</td>
+      <td><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Vehicle &amp; Intern Tracker</strong></td>
+      <td>Automation that monitors 25+ Sri Lankan vehicle, dealer, news, and internship sources and sends categorized Telegram alerts.</td>
+      <td>Node.js, Apify, Docker</td>
+      <td><a href="https://github.com/sahansbandara/sl-vehicle-intern-tracker">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>FlickSL</strong></td>
+      <td>Telegram-first movie and series platform with intelligent search, TMDB metadata, subtitles, Mini App profiles, and secure file delivery.</td>
+      <td>Python, Hydrogram, MongoDB</td>
+      <td><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">Repository</a><br><a href="https://app.imsahans.online/">Live Site</a></td>
+    </tr>
+    <tr>
+      <td><strong>React X Boss</strong></td>
+      <td>Channel engagement automation using bot and user sessions for reactions, polls, auto-approval, view workflows, and analytics.</td>
+      <td>Python, Aiogram, MongoDB</td>
+      <td><a href="https://github.com/sahansbandara/React-X-Boss">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Toxic Comment NLP</strong></td>
+      <td>Modular NLP pipeline covering text preprocessing, feature extraction, model training, evaluation, classification, and inference.</td>
+      <td>Python, NLP, Scikit-learn</td>
+      <td><a href="https://github.com/sahansbandara/Toxic-Comment-NLP-AIML-Project">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>SmartFold</strong></td>
+      <td>Role-based laundry operations system for customer orders, payments, inventory, staff tasks, delivery tracking, and notifications.</td>
+      <td>Spring Boot, Java, MySQL</td>
+      <td><a href="https://github.com/sahansbandara/Laundry-Management-System-WEB">Repository</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- FRONTEND -->
+<p align="center">
+  <img width="100%" src="assets/stack-frontend.svg" alt="Frontend" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,figma&theme=dark" alt="Frontend technologies" />
+</p>
+
+<p align="center"><sub><b>TypeScript · JavaScript · React · Next.js · Redux · Tailwind CSS · Material UI · HTML · CSS · Figma</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- BACKEND -->
+<p align="center">
+  <img width="100%" src="assets/stack-backend.svg" alt="Backend" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,php,nodejs,spring,laravel,express,dotnet,nestjs,flask&theme=dark" alt="Backend technologies" />
+</p>
+
+<p align="center"><sub><b>Java · Python · PHP · Node.js · Spring · Laravel · Express · .NET · NestJS · Flask</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- DATABASE -->
 <p align="center">
   <img width="100%" src="assets/stack-data-cloud.svg" alt="Database and Cloud" />
@@ -146,6 +145,39 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 </p>
 
 <p align="center"><sub><b>MySQL · PostgreSQL · MongoDB · Redis · Firebase · AWS · Docker · Kubernetes · Nginx · Linux</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- DEVOPS -->
+<p align="center">
+  <img width="100%" src="assets/stack-devops-tools.svg" alt="DevOps and Tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=dark" alt="DevOps and development tools" />
+</p>
+
+<p align="center"><sub><b>Git · GitHub · GitHub Actions · Jenkins · Postman · VS Code · IntelliJ IDEA · Bash · Grafana · Terraform</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
+<!-- CURRENT STREAK -->
+<p align="center">
+  <img width="100%" src="assets/section-streak.svg" alt="Current Streak" />
+</p>
+
+<div align="center">
+  <img width="24%" src="assets/focus-panel.svg" alt="Current focus: AI systems, web applications, and automation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=A855F7" />
+    <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=sahansbandara&hide_border=true&background=FFFFFF&ring=7C3AED&fire=0891B2&currStreakLabel=0891B2&sideLabels=7C3AED" alt="Sahan's current GitHub streak" />
+  </picture>
+  <img width="24%" src="assets/status-panel.svg" alt="Developer status: active, building, learning, and shipping" />
+</div>
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
@@ -171,21 +203,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
-<!-- BACKEND -->
-<p align="center">
-  <img width="100%" src="assets/stack-backend.svg" alt="Backend" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,php,nodejs,spring,laravel,express,dotnet,nestjs,flask&theme=dark" alt="Backend technologies" />
-</p>
-
-<p align="center"><sub><b>Java · Python · PHP · Node.js · Spring · Laravel · Express · .NET · NestJS · Flask</b></sub></p>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
 <!-- CODING ACTIVITY -->
 <p align="center">
   <img width="100%" src="assets/section-activity.svg" alt="Coding Activity" />
@@ -200,33 +217,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- FRONTEND -->
-<p align="center">
-  <img width="100%" src="assets/stack-frontend.svg" alt="Frontend" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,figma&theme=dark" alt="Frontend technologies" />
-</p>
-
-<p align="center"><sub><b>TypeScript · JavaScript · React · Next.js · Redux · Tailwind CSS · Material UI · HTML · CSS · Figma</b></sub></p>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- CONTRIBUTIONS -->
-<p align="center">
-  <img width="100%" src="assets/section-contributions.svg" alt="My Contributions" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake-dark.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/sahansbandara/sahansbandara/output/github-contribution-grid-snake.svg" alt="Snake eating Sahan's contributions" />
-  </picture>
 </p>
 
 <!-- CYBERPUNK FOOTER -->
