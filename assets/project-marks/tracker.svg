@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Vehicle and Intern Tracker">
-  <rect width="64" height="64" rx="14" fill="#05070a"/><path d="M14 36h36l-4-11H23l-9 11Zm2 0v9h5m27-9v9h-5" fill="none" stroke="#f8fafc" stroke-width="4" stroke-linejoin="round"/>
-  <circle cx="23" cy="43" r="4" fill="#22d3ee"/><circle cx="43" cy="43" r="4" fill="#22d3ee"/><path d="M45 12a10 10 0 0 1 10 10M45 18a4 4 0 0 1 4 4" fill="none" stroke="#34d399" stroke-width="3"/>
-</svg>

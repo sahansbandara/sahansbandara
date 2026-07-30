@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="HealthLab">
-  <rect width="64" height="64" rx="14" fill="#05070a"/><path d="M25 10h14v5l-3 4v7l12 19c3 5 0 9-6 9H22c-6 0-9-4-6-9l12-19v-7l-3-4v-5Z" fill="#ecfeff"/>
-  <path d="M22 42h20l-5-9H27l-5 9Z" fill="#22d3ee"/><path d="M32 29v14M25 36h14" stroke="#7c3aed" stroke-width="4" stroke-linecap="round"/>
-</svg>

@@ -12,6 +12,74 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 
 ---
 
+<!-- FEATURED PROJECTS -->
+<p align="center">
+  <img width="100%" src="assets/section-projects.svg" alt="Featured Projects" />
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/yatara.png" alt="Yatara Ceylon logo" />
+      <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a> · <a href="https://www.yataraceylon.me/">🌐 Live Site</a></h3>
+      <p>Tourism booking, fleet, payments, and finance platform.</p>
+      <p><code>TypeScript</code> <code>Next.js</code> <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/healthlab.png" alt="HealthLab logo" />
+      <h3><a href="https://github.com/sahansbandara/healthlab-crowdsource">HealthLab Crowdsource</a></h3>
+      <p>AI-assisted health research and participant management.</p>
+      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/tradingview.png" alt="TradingView logo" />
+      <h3><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Advanced TradingView Indicator</a></h3>
+      <p>SMC, divergence, liquidity, and market-signal indicator.</p>
+      <p><code>Pine Script</code> <code>TradingView</code> <code>SMC</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/tracker.png" alt="Vehicle and intern tracker logo" />
+      <h3><a href="https://github.com/sahansbandara/sl-vehicle-intern-tracker">Vehicle &amp; Intern Tracker</a></h3>
+      <p>Automated vehicle, news, and internship source monitoring.</p>
+      <p><code>Node.js</code> <code>Apify</code> <code>Docker</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img align="left" width="92" hspace="10" src="assets/project-logos/flicksl.png" alt="FlickSL logo" />
+      <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a> · <a href="https://app.imsahans.online/">🌐 Live Site</a></h3>
+      <p>Movie discovery, subtitles, profiles, and Telegram delivery.</p>
+      <p><code>Python</code> <code>Hydrogram</code> <code>MongoDB</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/react-x-boss.png" alt="React X Boss logo" />
+      <h3><a href="https://github.com/sahansbandara/React-X-Boss">React X Boss</a></h3>
+      <p>Telegram reactions, polls, sessions, and analytics automation.</p>
+      <p><code>Python</code> <code>Aiogram</code> <code>MongoDB</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/toxic-nlp.png" alt="Toxic Comment NLP logo" />
+      <h3><a href="https://github.com/sahansbandara/Toxic-Comment-NLP-AIML-Project">Toxic Comment NLP</a></h3>
+      <p>NLP pipeline for toxic-comment classification and inference.</p>
+      <p><code>Python</code> <code>NLP</code> <code>Scikit-learn</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <img align="left" width="64" hspace="10" src="assets/project-logos/smartfold.png" alt="SmartFold logo" />
+      <h3><a href="https://github.com/sahansbandara/Laundry-Management-System-WEB">SmartFold</a></h3>
+      <p>Laundry orders, inventory, payments, and delivery management.</p>
+      <p><code>Spring Boot</code> <code>Java</code> <code>MySQL</code></p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- CURRENT STREAK -->
 <p align="center">
   <img width="100%" src="assets/section-streak.svg" alt="Current Streak" />
@@ -100,74 +168,6 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
 <p align="center">
   <sub><b>TypeScript · React · Next.js · Node.js · Python · .NET · MongoDB · Docker · Kubernetes · MySQL</b></sub>
 </p>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- FEATURED PROJECTS -->
-<p align="center">
-  <img width="100%" src="assets/section-projects.svg" alt="Featured Projects" />
-</p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/yatara.svg" alt="Yatara Ceylon mark" />
-      <h3><a href="https://github.com/sahansbandara/Yatara-Ceylon">Yatara Ceylon</a> · <a href="https://www.yataraceylon.me/">🌐 Live Site</a></h3>
-      <p>Tourism booking, fleet, payments, and finance platform.</p>
-      <p><code>TypeScript</code> <code>Next.js</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/healthlab.svg" alt="HealthLab mark" />
-      <h3><a href="https://github.com/sahansbandara/healthlab-crowdsource">HealthLab Crowdsource</a></h3>
-      <p>AI-assisted health research and participant management.</p>
-      <p><code>React</code> <code>Node.js</code> <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/tradingview.svg" alt="TradingView indicator mark" />
-      <h3><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Advanced TradingView Indicator</a></h3>
-      <p>SMC, divergence, liquidity, and market-signal indicator.</p>
-      <p><code>Pine Script</code> <code>TradingView</code> <code>SMC</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/tracker.svg" alt="Vehicle and intern tracker mark" />
-      <h3><a href="https://github.com/sahansbandara/sl-vehicle-intern-tracker">Vehicle &amp; Intern Tracker</a></h3>
-      <p>Automated vehicle, news, and internship source monitoring.</p>
-      <p><code>Node.js</code> <code>Apify</code> <code>Docker</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/flicksl.svg" alt="FlickSL mark" />
-      <h3><a href="https://github.com/sahansbandara/FlickSL-Telegram-Bot">FlickSL</a> · <a href="https://app.imsahans.online/">🌐 Live Site</a></h3>
-      <p>Movie discovery, subtitles, profiles, and Telegram delivery.</p>
-      <p><code>Python</code> <code>Hydrogram</code> <code>MongoDB</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/react-x-boss.svg" alt="React X Boss mark" />
-      <h3><a href="https://github.com/sahansbandara/React-X-Boss">React X Boss</a></h3>
-      <p>Telegram reactions, polls, sessions, and analytics automation.</p>
-      <p><code>Python</code> <code>Aiogram</code> <code>MongoDB</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/toxic-nlp.svg" alt="Toxic Comment NLP mark" />
-      <h3><a href="https://github.com/sahansbandara/Toxic-Comment-NLP-AIML-Project">Toxic Comment NLP</a></h3>
-      <p>NLP pipeline for toxic-comment classification and inference.</p>
-      <p><code>Python</code> <code>NLP</code> <code>Scikit-learn</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <img align="left" width="56" hspace="10" src="assets/project-marks/smartfold.svg" alt="SmartFold mark" />
-      <h3><a href="https://github.com/sahansbandara/Laundry-Management-System-WEB">SmartFold</a></h3>
-      <p>Laundry orders, inventory, payments, and delivery management.</p>
-      <p><code>Spring Boot</code> <code>Java</code> <code>MySQL</code></p>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
