@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="60" viewBox="0 0 1180 60" role="img" aria-label="Database and Cloud">
   <defs><linearGradient id="g"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#a855f7"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.pill{fill:#0b1222}.label{fill:#e0e7ff}@media(prefers-color-scheme:light){.pill{fill:#f8fafc}.label{fill:#0f172a}}</style></defs>
+  <path d="M35 30h370M775 30h370" fill="none" stroke="#334155" stroke-width="1.5"/>
+  <path d="M255 30h150M775 30h150" fill="none" stroke="url(#g)" stroke-width="1.5" opacity=".75"/>
+  <circle cx="405" cy="30" r="3" fill="#06b6d4"/><circle cx="775" cy="30" r="3" fill="#a855f7"/>
   <rect x="445" y="9" width="290" height="42" rx="21" class="pill" stroke="url(#g)" stroke-width="1.5"/><circle cx="475" cy="30" r="5" fill="#10b981" filter="url(#glow)"/>
   <text x="605" y="35" text-anchor="middle" class="label" font-family="ui-monospace,monospace" font-size="13" font-weight="700" letter-spacing="1.7">DATABASE &amp; CLOUD</text>
 </svg>

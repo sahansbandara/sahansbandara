@@ -108,11 +108,11 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 
 <!-- FRONTEND -->
 <p align="center">
-  <img width="100%" src="assets/stack-frontend.svg" alt="Frontend" />
+  <img width="100%" src="assets/stack-frontend.svg?v=2" alt="Frontend" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,figma&theme=dark" alt="Frontend technologies" />
+  <img width="82%" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,figma&theme=dark" alt="Frontend technologies" />
 </p>
 
 <p align="center"><sub><b>TypeScript · JavaScript · React · Next.js · Redux · Tailwind CSS · Material UI · HTML · CSS · Figma</b></sub></p>
@@ -123,11 +123,11 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 
 <!-- BACKEND -->
 <p align="center">
-  <img width="100%" src="assets/stack-backend.svg" alt="Backend" />
+  <img width="100%" src="assets/stack-backend.svg?v=2" alt="Backend" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,php,nodejs,spring,laravel,express,dotnet,nestjs,flask&theme=dark" alt="Backend technologies" />
+  <img width="82%" src="https://skillicons.dev/icons?i=java,py,php,nodejs,spring,laravel,express,dotnet,nestjs,flask&theme=dark" alt="Backend technologies" />
 </p>
 
 <p align="center"><sub><b>Java · Python · PHP · Node.js · Spring · Laravel · Express · .NET · NestJS · Flask</b></sub></p>
@@ -138,11 +138,11 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 
 <!-- DATABASE -->
 <p align="center">
-  <img width="100%" src="assets/stack-data-cloud.svg" alt="Database and Cloud" />
+  <img width="100%" src="assets/stack-data-cloud.svg?v=2" alt="Database and Cloud" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker,kubernetes,nginx,linux&theme=dark" alt="Database and cloud technologies" />
+  <img width="82%" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker,kubernetes,nginx,linux&theme=dark" alt="Database and cloud technologies" />
 </p>
 
 <p align="center"><sub><b>MySQL · PostgreSQL · MongoDB · Redis · Firebase · AWS · Docker · Kubernetes · Nginx · Linux</b></sub></p>
@@ -153,11 +153,11 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 
 <!-- DEVOPS -->
 <p align="center">
-  <img width="100%" src="assets/stack-devops-tools.svg" alt="DevOps and Tools" />
+  <img width="100%" src="assets/stack-devops-tools.svg?v=2" alt="DevOps and Tools" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=dark" alt="DevOps and development tools" />
+  <img width="82%" src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=dark" alt="DevOps and development tools" />
 </p>
 
 <p align="center"><sub><b>Git · GitHub · GitHub Actions · Jenkins · Postman · VS Code · IntelliJ IDEA · Bash · Grafana · Terraform</b></sub></p>
