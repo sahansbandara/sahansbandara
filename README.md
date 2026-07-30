@@ -5,6 +5,12 @@
   <img src="assets/banner-light.svg" width="100%" alt="Sahan Sandaruwan — Software Engineering, AI, and Automation" />
 </picture>
 
+I'm **Sahan Sandaruwan**, a **Software Engineering undergraduate at SLIIT** focused on building full-stack platforms, AI-powered applications, and automation tools.
+
+I turn practical problems into reliable software using **TypeScript, Python, React, Node.js, and cloud technologies**—from tourism and healthcare platforms to Telegram automation and market-analysis tools.
+
+Currently exploring **applied AI, scalable system design, and intelligent automation** while working on freelance and open-source projects.
+
 <!-- CONNECT -->
 <p align="center">
   <img width="100%" src="assets/section-connect.svg" alt="Connect With Me" />
@@ -27,11 +33,6 @@
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
-
-I'm **Sahan Sandaruwan**, a passionate **Software Engineering Student @ SLIIT**,  
-AI-focused learner, and a freelancer who loves building modern systems, trading crypto, and exploring intelligent solutions.
-
-💡 *"Crafting logic, innovation, and digital mastery every day."*
 
 ---
 
