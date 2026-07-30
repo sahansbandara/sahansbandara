@@ -22,7 +22,7 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
   <a href="https://www.linkedin.com/in/imsahans"><img src="https://img.shields.io/badge/LINKEDIN-0f0f23?style=for-the-badge&logo=linkedin&logoColor=06B6D4" alt="LinkedIn" /></a>
   <a href="https://instagram.com/imsahans"><img src="https://img.shields.io/badge/INSTAGRAM-0f0f23?style=for-the-badge&logo=instagram&logoColor=A855F7" alt="Instagram" /></a>
   <a href="https://t.me/ImSahans"><img src="https://img.shields.io/badge/TELEGRAM-0f0f23?style=for-the-badge&logo=telegram&logoColor=06B6D4" alt="Telegram" /></a>
-  <img width="18%" src="assets/connect-right.svg?v=2" alt="Open to collaboration" />
+  <img width="18%" src="assets/connect-right.svg?v=3" alt="Open to collaboration" />
 </p>
 
 <p align="center">
