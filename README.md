@@ -157,34 +157,58 @@ AI-focused learner, and a freelancer who loves building modern systems, trading 
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
+<!-- TECHNOLOGY MATRIX -->
 <p align="center">
-  <img width="100%" src="assets/skills-motion.svg" alt="Skill Matrix" />
+  <img width="100%" src="assets/stack-backend.svg" alt="Backend" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,python,dotnet,mongodb,docker,kubernetes,mysql&theme=dark&perline=10" alt="Core skills" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,py,php,nodejs,spring,laravel,express,dotnet,nestjs,flask&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,py,php,nodejs,spring,laravel,express,dotnet,nestjs,flask&theme=light&perline=10" alt="Backend technologies" />
+  </picture>
+</p>
+
+<p align="center"><sub><b>Java · Python · PHP · Node.js · Spring · Laravel · Express · .NET · NestJS · Flask</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/stack-frontend.svg" alt="Frontend" />
 </p>
 
 <p align="center">
-  <sub><b>TypeScript · React · Next.js · Node.js · Python · .NET · MongoDB · Docker · Kubernetes · MySQL</b></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,figma&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui,html,css,figma&theme=light&perline=10" alt="Frontend technologies" />
+  </picture>
+</p>
+
+<p align="center"><sub><b>TypeScript · JavaScript · React · Next.js · Redux · Tailwind CSS · Material UI · HTML · CSS · Figma</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/stack-data-cloud.svg" alt="Database and Cloud" />
 </p>
 
 <p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker,kubernetes,nginx,linux&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,docker,kubernetes,nginx,linux&theme=light&perline=10" alt="Database and cloud technologies" />
+  </picture>
 </p>
 
-<!-- TOOLS -->
+<p align="center"><sub><b>MySQL · PostgreSQL · MongoDB · Redis · Firebase · AWS · Docker · Kubernetes · Nginx · Linux</b></sub></p>
+
 <p align="center">
-  <img width="100%" src="assets/tools-motion.svg" alt="Toolchain Ready" />
+  <img width="100%" src="assets/stack-devops-tools.svg" alt="DevOps and Tools" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,figma,vercel,azure&theme=dark&perline=8" alt="Primary development tools" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,jenkins,postman,vscode,idea,bash,grafana,terraform&theme=light&perline=10" alt="DevOps and development tools" />
+  </picture>
 </p>
 
-<p align="center">
-  <sub><b>VS Code · Git · GitHub · Linux · Postman · Figma · Vercel · Azure</b></sub>
-</p>
+<p align="center"><sub><b>Git · GitHub · GitHub Actions · Jenkins · Postman · VS Code · IntelliJ IDEA · Bash · Grafana · Terraform</b></sub></p>
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
