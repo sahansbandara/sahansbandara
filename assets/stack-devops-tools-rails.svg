@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="60" viewBox="0 0 1180 60" role="img" aria-label="DevOps and Tools">
   <defs><linearGradient id="g"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#a855f7"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.pill{fill:#0b1222}.label{fill:#e0e7ff}@media(prefers-color-scheme:light){.pill{fill:#f8fafc}.label{fill:#0f172a}}</style></defs>
-  <path d="M35 30h380M765 30h380" fill="none" stroke="#334155" stroke-width="1.5"/>
-  <path d="M265 30h150M765 30h150" fill="none" stroke="url(#g)" stroke-width="1.5" opacity=".75"/>
-  <circle cx="415" cy="30" r="3" fill="#06b6d4"/><circle cx="765" cy="30" r="3" fill="#a855f7"/>
+  <path d="M35 30H430M750 30h395" fill="none" stroke="#475569" stroke-width="2"/>
+  <path d="M230 30h200M750 30h200" fill="none" stroke="url(#g)" stroke-width="2.5"/>
+  <circle cx="430" cy="30" r="4" fill="#06b6d4" filter="url(#glow)"/><circle cx="750" cy="30" r="4" fill="#a855f7" filter="url(#glow)"/>
   <rect x="455" y="9" width="270" height="42" rx="21" class="pill" stroke="url(#g)" stroke-width="1.5"/><circle cx="485" cy="30" r="5" fill="#22d3ee" filter="url(#glow)"/>
   <text x="605" y="35" text-anchor="middle" class="label" font-family="ui-monospace,monospace" font-size="13" font-weight="700" letter-spacing="1.8">DEVOPS &amp; TOOLS</text>
 </svg>
