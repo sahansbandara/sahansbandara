@@ -14,10 +14,10 @@
     </filter>
   </defs>
 
-  <path d="M260 12h-61l-13 13h-47l-12 12H0" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+  <path d="M260 12h-61l-13 13h-42" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
   <path d="M242 45h-52l-10-10h-34" fill="none" stroke="#8b5cf6" stroke-opacity=".35" stroke-width="1.2"/>
   <circle r="3.5" fill="#a78bfa" filter="url(#glow)">
-    <animateMotion path="M260 12h-61l-13 13h-47l-12 12H0" dur="3.6s" begin=".8s" repeatCount="indefinite"/>
+    <animateMotion path="M260 12h-61l-13 13h-42" dur="3.6s" begin=".8s" repeatCount="indefinite"/>
   </circle>
   <circle cx="190" cy="45" r="2.5" fill="#8b5cf6">
     <animate attributeName="opacity" values=".25;1;.25" dur="2s" begin="1s" repeatCount="indefinite"/>
