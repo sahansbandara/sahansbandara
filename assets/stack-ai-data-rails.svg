@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="60" viewBox="0 0 1180 60" role="img" aria-label="AI and Data">
+  <defs><linearGradient id="g"><stop stop-color="#06b6d4"/><stop offset="1" stop-color="#a855f7"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><style>.pill{fill:#0b1222}.label{fill:#e0e7ff}@media(prefers-color-scheme:light){.pill{fill:#f8fafc}.label{fill:#0f172a}}</style></defs>
+  <path d="M35 30H440M740 30h405" fill="none" stroke="#475569" stroke-width="2"/>
+  <path d="M240 30h200M740 30h200" fill="none" stroke="url(#g)" stroke-width="2.5"/>
+  <circle cx="440" cy="30" r="4" fill="#06b6d4" filter="url(#glow)"/><circle cx="740" cy="30" r="4" fill="#a855f7" filter="url(#glow)"/>
+  <rect x="465" y="9" width="250" height="42" rx="21" class="pill" stroke="url(#g)" stroke-width="1.5"/><circle cx="495" cy="30" r="5" fill="#e879f9" filter="url(#glow)"/>
+  <text x="603" y="35" text-anchor="middle" class="label" font-family="ui-monospace,monospace" font-size="13" font-weight="700" letter-spacing="2">AI &amp; DATA</text>
+</svg>

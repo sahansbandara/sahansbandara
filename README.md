@@ -175,6 +175,22 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
+<!-- AI AND DATA -->
+<p align="center">
+  <img width="100%" src="assets/stack-ai-data-rails.svg" alt="AI and Data" />
+</p>
+
+<p align="center">
+  <img width="25%" src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow,anaconda&theme=dark" alt="AI and data technologies" />
+  <img width="5.45%" src="assets/gemini-icon.svg" alt="Google Gemini" />
+</p>
+
+<p align="center"><sub><b>scikit-learn · OpenCV · TensorFlow · Anaconda · Gemini API</b></sub></p>
+
+<p align="center">
+  <img width="100%" src="assets/section-divider.svg" alt="" />
+</p>
+
 <!-- DEVOPS -->
 <p align="center">
   <img width="100%" src="assets/stack-devops-tools-rails.svg" alt="DevOps and Tools" />
