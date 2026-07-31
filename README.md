@@ -181,8 +181,8 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 </p>
 
 <p align="center">
-  <img width="40%" src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,idea,cloudflare,vercel&theme=dark" alt="DevOps and development tools" />
-  <img width="4.25%" src="assets/n8n-icon.svg" alt="n8n" />
+  <img width="51%" src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,idea,cloudflare,vercel&theme=dark" alt="DevOps and development tools" />
+  <img width="5.45%" src="assets/n8n-icon.svg" alt="n8n" />
 </p>
 
 <p align="center"><sub><b>Git · GitHub · GitHub Actions · Postman · VS Code · IntelliJ IDEA · Cloudflare · Vercel · n8n</b></sub></p>
