@@ -70,6 +70,30 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
       <td><a href="https://github.com/sahansbandara/Advanced-TradingView-Indicator">Repository</a></td>
     </tr>
     <tr>
+      <td><strong>Crypto &amp; Forex Broadcast</strong></td>
+      <td>AI-assisted Telegram content pipeline for collecting, translating, staging, approving, and broadcasting crypto and forex posts across multiple channels.</td>
+      <td>Python, Kurigram, Gemini, MongoDB</td>
+      <td><a href="https://github.com/sahansbandara/Crypto-Forex-Broadcast">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Cornix Manager</strong></td>
+      <td>Telegram signal operations bot for formatting Cornix posts, managing templates and captions, processing alerts, and restoring reliable auto-forward jobs.</td>
+      <td>Python, Kurigram, MongoDB</td>
+      <td><a href="https://github.com/sahansbandara/Cornix-Manager">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Multi-Forward Bot</strong></td>
+      <td>Multi-session Telegram forwarding system with encrypted credentials, configurable routing rules, deduplication, media filtering, and restart recovery.</td>
+      <td>Python, Kurigram, MongoDB, Fernet</td>
+      <td><a href="https://github.com/sahansbandara/Multi-Forward-Bot">Repository</a></td>
+    </tr>
+    <tr>
+      <td><strong>Telegram Finance Logo Studio</strong></td>
+      <td>Production workflow for premium Forex and Crypto channel branding with name research, duplicate prevention, concept scoring, and deterministic logo validation.</td>
+      <td>Python, Pillow, AI Imaging</td>
+      <td><a href="https://github.com/sahansbandara/telegram-finance-logo-studio">Repository</a></td>
+    </tr>
+    <tr>
       <td><strong>Vehicle &amp; Intern Tracker</strong></td>
       <td>Automation that monitors 25+ Sri Lankan vehicle, dealer, news, and internship sources and sends categorized Telegram alerts.</td>
       <td>Node.js, Apify, Docker</td>
