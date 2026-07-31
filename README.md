@@ -130,31 +130,16 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
-<!-- FRONTEND -->
+<!-- LANGUAGES AND FRAMEWORKS -->
 <p align="center">
-  <img width="100%" src="assets/stack-frontend-rails.svg" alt="Frontend" />
+  <img width="100%" src="assets/stack-languages-rails.svg" alt="Languages and Frameworks" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend technologies" />
+  <img width="90%" src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,tailwind,html,css,nodejs,express,spring,dotnet,fastapi&theme=dark" alt="Languages and frameworks" />
 </p>
 
-<p align="center"><sub><b>TypeScript · JavaScript · React · Next.js · Tailwind CSS · HTML · CSS</b></sub></p>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- BACKEND -->
-<p align="center">
-  <img width="100%" src="assets/stack-backend-rails.svg" alt="Backend" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://skillicons.dev/icons?i=py,java,nodejs,express,spring,dotnet,fastapi&theme=dark" alt="Backend technologies" />
-</p>
-
-<p align="center"><sub><b>Python · Java · Node.js · Express · Spring · .NET · FastAPI</b></sub></p>
+<p align="center"><sub><b>TypeScript · JavaScript · Python · Java · React · Next.js · Tailwind CSS · HTML · CSS · Node.js · Express · Spring · .NET · FastAPI</b></sub></p>
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
@@ -170,22 +155,6 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 </p>
 
 <p align="center"><sub><b>MongoDB · MySQL · PostgreSQL · SQLite · Redis · Supabase · Firebase · AWS · Docker · Kubernetes · Linux</b></sub></p>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
-<!-- AI AND DATA -->
-<p align="center">
-  <img width="100%" src="assets/stack-ai-data-rails.svg" alt="AI and Data" />
-</p>
-
-<p align="center">
-  <img width="25%" src="https://skillicons.dev/icons?i=sklearn,opencv,tensorflow,anaconda&theme=dark" alt="AI and data technologies" />
-  <img width="5.45%" src="assets/gemini-icon.svg" alt="Google Gemini" />
-</p>
-
-<p align="center"><sub><b>scikit-learn · OpenCV · TensorFlow · Anaconda · Gemini API</b></sub></p>
 
 <p align="center">
   <img width="100%" src="assets/section-divider.svg" alt="" />
