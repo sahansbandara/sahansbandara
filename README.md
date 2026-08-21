@@ -200,14 +200,8 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=E0E7FF" />
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahansbandara&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&icon_color=0891B2&text_color=0F172A" alt="Sahan's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=E0E7FF" />
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sahansbandara&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=7C3AED&text_color=0F172A" alt="Sahan's most used languages" />
-  </picture>
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=sahansbandara&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=06B6D4&amp;text_color=E0E7FF" alt="Sahan's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahansbandara&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=E0E7FF" alt="Sahan's most used languages" />
 </div>
 
 <p align="center">
