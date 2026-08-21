@@ -200,8 +200,8 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 </p>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=sahansbandara&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=06B6D4&amp;text_color=E0E7FF" alt="Sahan's GitHub statistics" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahansbandara&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=E0E7FF" alt="Sahan's most used languages" />
+  <img width="42%" src="https://github-readme-stats.shion.dev/api?username=sahansbandara&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;icon_color=06B6D4&amp;text_color=E0E7FF" alt="Sahan's GitHub statistics" />
+  <img width="37%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sahansbandara&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=8B5CF6&amp;text_color=E0E7FF" alt="Sahan's most used languages" />
 </div>
 
 <p align="center">
