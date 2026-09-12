@@ -208,19 +208,6 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
   <img width="100%" src="assets/section-divider.svg" alt="" />
 </p>
 
-<!-- CODING ACTIVITY -->
-<p align="center">
-  <img width="100%" src="assets/section-activity.svg" alt="Coding Activity" />
-</p>
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahansbandara&amp;theme=tokyonight" alt="Sahan's GitHub contribution activity graph" />
-</div>
-
-<p align="center">
-  <img width="100%" src="assets/section-divider.svg" alt="" />
-</p>
-
 <!-- CYBERPUNK FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
