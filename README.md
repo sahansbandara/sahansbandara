@@ -214,10 +214,7 @@ Currently exploring **applied AI, scalable system design, and intelligent automa
 </p>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=0D1117&color=E0E7FF&line=8B5CF6&point=06B6D4&area=true&area_color=8B5CF6&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahansbandara&bg_color=FFFFFF&color=0F172A&line=7C3AED&point=0891B2&area=true&area_color=C4B5FD&hide_border=true" alt="Sahan's contribution activity graph" />
-  </picture>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahansbandara&amp;theme=tokyonight" alt="Sahan's GitHub contribution activity graph" />
 </div>
 
 <p align="center">
